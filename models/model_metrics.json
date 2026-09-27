@@ -1,0 +1,49 @@
+{
+    "dataset_summary": {
+        "total_records": 1505,
+        "base_synthetic_records": 1500,
+        "live_verified_records": 5,
+        "train_records": 1204,
+        "test_records": 301,
+        "passing_threshold": 16.0
+    },
+    "linear_regression": {
+        "metrics": {
+            "mae": 1.5733,
+            "mse": 3.9677,
+            "rmse": 1.9919,
+            "r2": 0.9096
+        },
+        "coefficients": {
+            "previous_marks": 0.2398,
+            "internal_marks": 0.4382,
+            "attendance": 0.0648,
+            "study_hours": 1.5767
+        },
+        "intercept": -0.0705
+    },
+    "decision_tree": {
+        "metrics": {
+            "accuracy": 0.9369,
+            "precision": 0.9632,
+            "recall": 0.9668,
+            "f1_score": 0.965,
+            "confusion_matrix": [
+                [
+                    20,
+                    10
+                ],
+                [
+                    9,
+                    262
+                ]
+            ]
+        },
+        "feature_importances": {
+            "previous_marks": 0.0713,
+            "internal_marks": 0.8662,
+            "attendance": 0.0143,
+            "study_hours": 0.0482
+        }
+    }
+}

@@ -1,0 +1,1501 @@
+student_id,subject,previous_marks,internal_marks,attendance,study_hours,final_marks,pass_fail
+STU1001,Computer Networks,22.0,21.2,62.6,1.6,19.4,1
+STU1001,Machine Learning,25.3,24.6,69.1,3.1,25.9,1
+STU1001,Design and Analysis of Algorithms (DAA),27.3,29.6,65.2,3.2,28.6,1
+STU1001,Microcontrollers (MC),29.6,27.8,81.6,1.7,25.2,1
+STU1001,Software Project Management,25.6,28.6,80.5,3.1,27.3,1
+STU1002,Computer Networks,14.0,19.0,62.5,1.9,17.6,1
+STU1002,Machine Learning,16.1,17.2,50.0,1.4,18.7,1
+STU1002,Design and Analysis of Algorithms (DAA),19.9,18.0,66.0,2.6,23.1,1
+STU1002,Microcontrollers (MC),15.5,21.6,50.0,3.1,21.9,1
+STU1002,Artificial Intelligence,19.7,24.4,50.0,2.8,23.7,1
+STU1003,Computer Networks,31.3,33.2,88.3,5.0,36.4,1
+STU1003,Machine Learning,40.0,40.0,100.0,4.9,40.0,1
+STU1003,Design and Analysis of Algorithms (DAA),32.2,31.8,81.5,2.7,30.9,1
+STU1003,Microcontrollers (MC),31.6,34.2,80.0,4.0,31.4,1
+STU1003,Software Project Management,40.0,30.2,78.2,2.7,34.2,1
+STU1004,Computer Networks,24.9,22.4,65.4,1.8,27.8,1
+STU1004,Machine Learning,19.0,24.7,65.3,2.8,25.4,1
+STU1004,Design and Analysis of Algorithms (DAA),21.0,26.6,62.3,3.9,31.2,1
+STU1004,Microcontrollers (MC),19.2,16.6,53.0,2.6,19.5,1
+STU1004,Artificial Intelligence,27.2,21.5,60.8,2.0,22.5,1
+STU1005,Computer Networks,33.4,34.8,87.2,3.5,32.3,1
+STU1005,Machine Learning,32.0,34.6,84.3,4.1,37.0,1
+STU1005,Design and Analysis of Algorithms (DAA),22.5,16.9,79.5,2.5,20.1,1
+STU1005,Microcontrollers (MC),28.1,30.8,79.7,3.3,32.5,1
+STU1005,Artificial Intelligence,34.4,36.3,70.5,5.0,33.6,1
+STU1006,Computer Networks,29.4,24.7,76.8,2.4,28.7,1
+STU1006,Machine Learning,25.0,22.4,58.2,2.6,25.3,1
+STU1006,Design and Analysis of Algorithms (DAA),23.1,24.4,63.4,2.4,24.3,1
+STU1006,Microcontrollers (MC),20.6,26.8,77.5,2.9,26.4,1
+STU1006,Software Project Management,30.1,29.0,73.5,2.3,27.2,1
+STU1007,Computer Networks,17.7,20.0,59.7,2.4,19.8,1
+STU1007,Machine Learning,28.0,25.6,71.2,2.8,28.1,1
+STU1007,Design and Analysis of Algorithms (DAA),21.1,19.7,53.6,2.0,21.4,1
+STU1007,Microcontrollers (MC),19.9,24.2,64.6,3.7,24.3,1
+STU1007,Software Project Management,26.6,25.7,71.1,2.8,25.1,1
+STU1008,Computer Networks,30.8,32.5,73.8,2.3,32.3,1
+STU1008,Machine Learning,14.3,19.8,50.0,3.0,21.5,1
+STU1008,Design and Analysis of Algorithms (DAA),14.8,12.5,51.8,0.5,10.7,0
+STU1008,Microcontrollers (MC),27.2,28.7,58.3,2.8,24.5,1
+STU1008,Artificial Intelligence,27.1,25.3,66.6,2.3,24.4,1
+STU1009,Computer Networks,25.2,28.2,63.9,3.1,28.3,1
+STU1009,Machine Learning,20.2,20.1,66.3,2.2,21.2,1
+STU1009,Design and Analysis of Algorithms (DAA),28.1,21.6,67.8,1.9,26.3,1
+STU1009,Microcontrollers (MC),31.7,27.2,55.4,2.4,26.9,1
+STU1009,Artificial Intelligence,26.5,25.8,65.4,3.6,28.3,1
+STU1010,Computer Networks,38.3,35.5,89.8,3.7,38.3,1
+STU1010,Machine Learning,34.9,32.1,88.0,3.3,32.2,1
+STU1010,Design and Analysis of Algorithms (DAA),35.5,36.1,100.0,2.9,33.0,1
+STU1010,Microcontrollers (MC),35.4,28.5,94.5,3.4,35.9,1
+STU1010,Artificial Intelligence,37.5,34.3,88.3,3.9,36.4,1
+STU1011,Computer Networks,27.0,26.3,68.3,2.7,28.4,1
+STU1011,Machine Learning,24.6,18.7,60.5,1.6,22.2,1
+STU1011,Design and Analysis of Algorithms (DAA),13.8,20.3,50.0,2.1,19.7,1
+STU1011,Microcontrollers (MC),28.5,26.5,67.9,3.3,25.3,1
+STU1011,Software Project Management,24.0,13.8,53.0,0.9,17.9,1
+STU1012,Computer Networks,23.3,30.7,76.6,4.3,31.1,1
+STU1012,Machine Learning,26.2,20.0,67.5,2.7,22.6,1
+STU1012,Design and Analysis of Algorithms (DAA),27.1,26.8,55.1,2.7,25.0,1
+STU1012,Microcontrollers (MC),26.5,24.8,56.9,1.6,22.7,1
+STU1012,Software Project Management,21.7,16.9,58.2,2.1,18.5,1
+STU1013,Computer Networks,16.7,15.4,50.0,2.1,15.9,0
+STU1013,Machine Learning,23.3,27.8,69.8,2.9,26.7,1
+STU1013,Design and Analysis of Algorithms (DAA),32.2,22.8,65.4,3.3,25.9,1
+STU1013,Microcontrollers (MC),26.0,31.0,77.3,3.1,32.3,1
+STU1013,Artificial Intelligence,28.2,27.8,58.6,2.8,27.1,1
+STU1014,Computer Networks,27.2,29.9,92.1,3.5,31.8,1
+STU1014,Machine Learning,36.9,31.7,81.8,3.9,35.2,1
+STU1014,Design and Analysis of Algorithms (DAA),34.9,35.8,88.6,5.0,36.7,1
+STU1014,Microcontrollers (MC),30.7,28.1,75.8,2.6,24.2,1
+STU1014,Artificial Intelligence,38.4,37.9,85.5,3.9,36.4,1
+STU1015,Computer Networks,21.0,24.2,50.0,3.6,22.9,1
+STU1015,Machine Learning,12.5,16.2,58.0,1.7,15.5,0
+STU1015,Design and Analysis of Algorithms (DAA),19.3,16.4,50.0,1.4,13.1,0
+STU1015,Microcontrollers (MC),19.3,24.8,50.0,4.2,28.6,1
+STU1015,Artificial Intelligence,17.6,20.3,75.5,1.8,22.4,1
+STU1016,Computer Networks,27.1,27.2,74.4,3.0,26.3,1
+STU1016,Machine Learning,29.7,28.9,84.1,3.5,32.2,1
+STU1016,Design and Analysis of Algorithms (DAA),37.0,29.7,78.3,3.7,34.0,1
+STU1016,Microcontrollers (MC),23.3,21.7,82.7,2.9,25.0,1
+STU1016,Software Project Management,26.6,29.3,77.2,4.0,28.0,1
+STU1017,Computer Networks,17.8,17.4,50.0,1.9,16.0,1
+STU1017,Machine Learning,31.0,26.1,69.5,2.6,25.0,1
+STU1017,Design and Analysis of Algorithms (DAA),24.4,25.6,61.1,2.9,26.6,1
+STU1017,Microcontrollers (MC),20.2,23.2,50.0,2.9,19.4,1
+STU1017,Software Project Management,20.7,24.7,68.9,2.8,29.0,1
+STU1018,Computer Networks,38.4,35.7,94.1,3.4,37.5,1
+STU1018,Machine Learning,37.5,36.9,79.6,3.8,36.7,1
+STU1018,Design and Analysis of Algorithms (DAA),30.5,33.8,88.7,3.0,33.4,1
+STU1018,Microcontrollers (MC),32.4,33.7,93.0,4.4,34.4,1
+STU1018,Artificial Intelligence,40.0,35.7,100.0,4.8,39.8,1
+STU1019,Computer Networks,18.1,22.0,50.0,2.7,19.6,1
+STU1019,Machine Learning,24.9,20.5,55.7,2.1,21.0,1
+STU1019,Design and Analysis of Algorithms (DAA),19.2,21.0,59.7,2.0,18.2,1
+STU1019,Microcontrollers (MC),24.1,23.3,64.0,3.4,26.0,1
+STU1019,Artificial Intelligence,28.8,28.9,65.2,2.9,28.4,1
+STU1020,Computer Networks,17.0,21.9,50.0,1.9,22.1,1
+STU1020,Machine Learning,21.2,24.6,50.0,4.1,25.5,1
+STU1020,Design and Analysis of Algorithms (DAA),20.2,20.7,59.0,2.3,20.3,1
+STU1020,Microcontrollers (MC),25.6,16.2,54.8,2.3,22.6,1
+STU1020,Software Project Management,24.1,19.3,50.6,2.7,20.3,1
+STU1021,Computer Networks,11.4,11.8,50.0,0.7,9.4,0
+STU1021,Machine Learning,6.4,16.5,50.0,1.9,15.7,0
+STU1021,Design and Analysis of Algorithms (DAA),10.4,12.6,50.0,1.9,13.6,0
+STU1021,Microcontrollers (MC),18.4,20.2,50.0,2.3,20.6,1
+STU1021,Artificial Intelligence,10.6,15.3,50.0,1.1,12.8,0
+STU1022,Computer Networks,37.5,38.8,81.7,3.3,38.1,1
+STU1022,Machine Learning,27.7,21.0,67.7,2.3,25.1,1
+STU1022,Design and Analysis of Algorithms (DAA),37.4,39.1,94.7,3.5,40.0,1
+STU1022,Microcontrollers (MC),29.4,28.7,72.6,2.9,24.2,1
+STU1022,Artificial Intelligence,30.5,23.2,74.5,2.3,24.4,1
+STU1023,Computer Networks,29.3,31.3,84.7,3.6,28.5,1
+STU1023,Machine Learning,28.9,25.3,81.8,3.8,28.5,1
+STU1023,Design and Analysis of Algorithms (DAA),35.5,29.4,60.7,3.7,31.2,1
+STU1023,Microcontrollers (MC),35.3,30.8,74.7,3.8,33.0,1
+STU1023,Artificial Intelligence,40.0,40.0,96.3,4.3,40.0,1
+STU1024,Computer Networks,31.8,26.7,61.5,2.5,28.8,1
+STU1024,Machine Learning,24.8,27.3,70.3,3.6,27.2,1
+STU1024,Design and Analysis of Algorithms (DAA),23.5,27.8,64.5,3.1,25.1,1
+STU1024,Microcontrollers (MC),27.0,30.8,65.1,3.9,27.4,1
+STU1024,Software Project Management,31.9,28.9,78.8,3.2,33.3,1
+STU1025,Computer Networks,32.0,32.9,74.8,4.5,33.8,1
+STU1025,Machine Learning,40.0,37.8,83.6,4.1,37.7,1
+STU1025,Design and Analysis of Algorithms (DAA),23.1,28.6,73.2,3.6,28.8,1
+STU1025,Microcontrollers (MC),34.1,30.6,75.6,3.2,30.6,1
+STU1025,Artificial Intelligence,35.8,38.6,89.1,2.9,36.9,1
+STU1026,Computer Networks,12.9,20.8,50.0,1.7,20.0,1
+STU1026,Machine Learning,14.5,16.8,50.0,1.6,18.8,1
+STU1026,Design and Analysis of Algorithms (DAA),7.1,12.2,50.0,0.8,9.5,0
+STU1026,Microcontrollers (MC),7.9,5.1,50.0,2.2,8.9,0
+STU1026,Software Project Management,13.9,15.1,53.9,3.1,19.1,1
+STU1027,Computer Networks,19.6,21.5,51.9,2.9,21.7,1
+STU1027,Machine Learning,26.0,28.4,66.8,2.4,27.6,1
+STU1027,Design and Analysis of Algorithms (DAA),18.8,17.2,52.4,2.4,19.5,1
+STU1027,Microcontrollers (MC),21.9,21.6,62.7,3.4,23.3,1
+STU1027,Software Project Management,23.4,27.8,73.3,3.3,29.6,1
+STU1028,Computer Networks,19.4,21.3,56.9,3.4,26.7,1
+STU1028,Machine Learning,14.9,15.2,50.0,2.5,18.7,1
+STU1028,Design and Analysis of Algorithms (DAA),25.5,23.5,54.8,1.9,22.9,1
+STU1028,Microcontrollers (MC),24.2,22.3,61.7,2.2,23.5,1
+STU1028,Artificial Intelligence,26.4,22.1,58.8,1.8,25.0,1
+STU1029,Computer Networks,30.7,30.7,63.3,3.9,27.9,1
+STU1029,Machine Learning,26.0,18.2,54.2,1.8,24.6,1
+STU1029,Design and Analysis of Algorithms (DAA),28.9,31.0,72.1,3.5,33.2,1
+STU1029,Microcontrollers (MC),25.7,24.8,67.3,2.4,23.5,1
+STU1029,Artificial Intelligence,18.5,20.2,58.7,2.4,19.3,1
+STU1030,Computer Networks,17.8,19.8,58.7,2.1,18.5,1
+STU1030,Machine Learning,24.8,23.1,62.1,2.9,26.8,1
+STU1030,Design and Analysis of Algorithms (DAA),22.1,21.8,55.3,2.1,26.2,1
+STU1030,Microcontrollers (MC),13.3,16.1,50.0,1.5,18.0,1
+STU1030,Artificial Intelligence,27.1,21.5,63.2,2.3,24.8,1
+STU1031,Computer Networks,27.3,27.6,62.0,3.7,31.6,1
+STU1031,Machine Learning,24.0,29.6,86.6,2.6,25.3,1
+STU1031,Design and Analysis of Algorithms (DAA),19.4,19.7,69.0,2.4,16.8,1
+STU1031,Microcontrollers (MC),24.9,26.6,58.2,2.1,27.4,1
+STU1031,Artificial Intelligence,20.9,17.7,50.0,2.2,19.2,1
+STU1032,Computer Networks,38.5,31.3,76.8,2.9,33.3,1
+STU1032,Machine Learning,29.7,34.3,91.8,3.8,33.1,1
+STU1032,Design and Analysis of Algorithms (DAA),33.7,32.3,74.3,4.2,33.1,1
+STU1032,Microcontrollers (MC),35.7,38.3,100.0,3.9,38.5,1
+STU1032,Software Project Management,34.1,34.7,84.9,3.6,34.8,1
+STU1033,Computer Networks,23.7,28.5,77.9,4.1,30.3,1
+STU1033,Machine Learning,19.4,21.0,58.6,3.4,23.9,1
+STU1033,Design and Analysis of Algorithms (DAA),26.7,26.0,68.6,3.0,26.9,1
+STU1033,Microcontrollers (MC),31.3,30.4,71.4,3.5,30.5,1
+STU1033,Artificial Intelligence,35.1,30.3,78.2,3.6,31.7,1
+STU1034,Computer Networks,14.1,12.5,50.0,2.2,13.6,0
+STU1034,Machine Learning,17.3,22.1,50.0,2.5,20.5,1
+STU1034,Design and Analysis of Algorithms (DAA),5.4,7.6,50.0,1.0,12.4,0
+STU1034,Microcontrollers (MC),4.5,8.7,50.0,0.6,7.6,0
+STU1034,Software Project Management,12.2,12.9,55.6,0.7,15.5,0
+STU1035,Computer Networks,15.2,18.0,50.2,0.8,16.8,1
+STU1035,Machine Learning,27.9,26.9,75.7,2.6,28.2,1
+STU1035,Design and Analysis of Algorithms (DAA),18.2,18.0,50.0,1.5,15.7,0
+STU1035,Microcontrollers (MC),31.6,27.9,76.1,3.2,30.2,1
+STU1035,Artificial Intelligence,20.4,21.4,67.5,1.9,22.3,1
+STU1036,Computer Networks,32.3,30.3,74.4,3.2,30.1,1
+STU1036,Machine Learning,27.4,25.8,75.3,3.1,26.4,1
+STU1036,Design and Analysis of Algorithms (DAA),19.8,19.4,74.6,2.0,22.9,1
+STU1036,Microcontrollers (MC),27.1,24.3,78.1,2.6,30.6,1
+STU1036,Artificial Intelligence,24.9,25.0,64.5,3.1,25.8,1
+STU1037,Computer Networks,21.2,22.6,60.4,3.5,28.1,1
+STU1037,Machine Learning,35.2,34.0,74.6,3.6,33.4,1
+STU1037,Design and Analysis of Algorithms (DAA),29.7,24.5,68.1,3.4,25.1,1
+STU1037,Microcontrollers (MC),27.8,27.2,61.7,4.0,29.2,1
+STU1037,Artificial Intelligence,24.5,25.6,63.7,3.6,23.8,1
+STU1038,Computer Networks,8.5,7.4,50.0,0.9,9.6,0
+STU1038,Machine Learning,14.9,19.1,50.0,2.4,16.8,1
+STU1038,Design and Analysis of Algorithms (DAA),21.6,20.6,50.0,1.9,20.9,1
+STU1038,Microcontrollers (MC),15.2,18.5,50.0,1.7,16.2,1
+STU1038,Software Project Management,4.8,6.1,50.0,1.9,10.6,0
+STU1039,Computer Networks,39.2,33.8,57.9,3.4,34.3,1
+STU1039,Machine Learning,38.8,35.1,86.0,4.1,36.0,1
+STU1039,Design and Analysis of Algorithms (DAA),29.2,31.2,75.0,3.5,27.2,1
+STU1039,Microcontrollers (MC),30.9,29.1,68.3,3.5,31.2,1
+STU1039,Artificial Intelligence,27.1,28.1,84.3,3.0,29.4,1
+STU1040,Computer Networks,20.0,21.8,67.7,2.0,20.6,1
+STU1040,Machine Learning,20.3,18.7,54.1,2.4,20.9,1
+STU1040,Design and Analysis of Algorithms (DAA),13.9,19.0,54.9,2.0,19.4,1
+STU1040,Microcontrollers (MC),28.4,29.6,66.3,3.1,28.1,1
+STU1040,Artificial Intelligence,21.9,23.2,60.8,2.2,22.7,1
+STU1041,Computer Networks,22.9,26.4,79.4,2.8,23.9,1
+STU1041,Machine Learning,21.4,25.0,64.0,4.2,28.2,1
+STU1041,Design and Analysis of Algorithms (DAA),21.5,27.0,64.4,3.4,27.1,1
+STU1041,Microcontrollers (MC),23.9,23.9,62.7,2.6,25.6,1
+STU1041,Software Project Management,22.0,22.2,53.2,3.1,23.1,1
+STU1042,Computer Networks,24.7,24.6,74.4,3.4,29.3,1
+STU1042,Machine Learning,33.1,32.0,65.0,3.5,33.8,1
+STU1042,Design and Analysis of Algorithms (DAA),26.7,27.5,61.3,4.1,31.5,1
+STU1042,Microcontrollers (MC),29.5,35.8,85.3,4.8,35.9,1
+STU1042,Software Project Management,33.3,36.1,91.9,3.7,34.9,1
+STU1043,Computer Networks,21.3,19.8,50.0,2.3,20.6,1
+STU1043,Machine Learning,28.7,31.0,67.7,4.0,35.5,1
+STU1043,Design and Analysis of Algorithms (DAA),30.5,28.7,71.2,4.0,31.3,1
+STU1043,Microcontrollers (MC),16.3,19.3,50.0,2.6,19.6,1
+STU1043,Artificial Intelligence,31.5,25.4,63.8,2.4,28.1,1
+STU1044,Computer Networks,28.5,24.2,64.3,2.9,28.8,1
+STU1044,Machine Learning,26.1,26.7,64.1,1.9,24.2,1
+STU1044,Design and Analysis of Algorithms (DAA),15.4,18.4,59.6,3.5,20.0,1
+STU1044,Microcontrollers (MC),24.4,20.8,52.8,1.4,17.3,1
+STU1044,Artificial Intelligence,33.6,29.6,88.3,2.8,31.6,1
+STU1045,Computer Networks,34.4,28.3,62.5,2.9,28.9,1
+STU1045,Machine Learning,25.8,21.7,72.3,2.0,24.6,1
+STU1045,Design and Analysis of Algorithms (DAA),23.7,21.4,50.0,2.9,21.6,1
+STU1045,Microcontrollers (MC),16.3,19.2,60.4,3.0,20.7,1
+STU1045,Software Project Management,31.9,26.3,83.0,2.8,30.4,1
+STU1046,Computer Networks,30.4,25.0,69.7,2.2,24.1,1
+STU1046,Machine Learning,26.8,25.3,54.9,3.6,25.5,1
+STU1046,Design and Analysis of Algorithms (DAA),32.3,32.9,67.3,3.4,31.9,1
+STU1046,Microcontrollers (MC),26.2,25.6,63.7,2.6,27.6,1
+STU1046,Software Project Management,25.2,24.2,78.6,2.8,21.2,1
+STU1047,Computer Networks,28.6,30.8,78.4,2.8,30.8,1
+STU1047,Machine Learning,23.9,21.7,72.1,2.6,24.6,1
+STU1047,Design and Analysis of Algorithms (DAA),27.7,30.6,61.1,2.9,30.7,1
+STU1047,Microcontrollers (MC),13.9,21.0,55.0,3.3,20.7,1
+STU1047,Software Project Management,28.9,27.5,79.6,2.8,28.3,1
+STU1048,Computer Networks,19.1,21.8,53.2,2.6,20.2,1
+STU1048,Machine Learning,16.4,19.8,68.9,2.2,19.7,1
+STU1048,Design and Analysis of Algorithms (DAA),25.0,23.5,69.1,2.9,25.5,1
+STU1048,Microcontrollers (MC),30.6,28.8,61.3,3.0,31.4,1
+STU1048,Software Project Management,23.5,25.9,50.0,2.8,27.1,1
+STU1049,Computer Networks,22.2,27.7,63.8,3.3,31.9,1
+STU1049,Machine Learning,29.6,28.7,68.4,2.8,30.6,1
+STU1049,Design and Analysis of Algorithms (DAA),19.7,21.5,66.3,2.5,20.5,1
+STU1049,Microcontrollers (MC),27.0,28.4,68.9,3.5,27.9,1
+STU1049,Artificial Intelligence,23.2,21.9,63.2,2.5,20.6,1
+STU1050,Computer Networks,26.7,27.5,78.7,3.5,28.2,1
+STU1050,Machine Learning,29.4,31.5,77.8,2.7,32.2,1
+STU1050,Design and Analysis of Algorithms (DAA),22.4,25.3,71.5,3.0,23.4,1
+STU1050,Microcontrollers (MC),32.1,30.1,75.5,3.5,32.6,1
+STU1050,Artificial Intelligence,26.4,29.7,74.9,2.2,25.7,1
+STU1051,Computer Networks,15.2,16.2,50.0,1.4,13.1,0
+STU1051,Machine Learning,10.5,9.5,50.0,1.0,11.1,0
+STU1051,Design and Analysis of Algorithms (DAA),21.6,19.2,54.5,2.3,22.5,1
+STU1051,Microcontrollers (MC),25.4,24.8,50.0,2.3,28.4,1
+STU1051,Artificial Intelligence,10.6,16.1,50.0,2.1,17.5,1
+STU1052,Computer Networks,25.0,23.4,71.1,2.5,23.3,1
+STU1052,Machine Learning,23.4,26.7,62.8,3.4,28.0,1
+STU1052,Design and Analysis of Algorithms (DAA),35.7,28.9,62.3,2.9,31.8,1
+STU1052,Microcontrollers (MC),27.8,29.9,78.2,2.1,26.2,1
+STU1052,Artificial Intelligence,23.6,17.5,57.4,2.9,22.4,1
+STU1053,Computer Networks,28.9,29.0,77.2,3.0,24.4,1
+STU1053,Machine Learning,9.8,13.1,72.8,2.2,20.9,1
+STU1053,Design and Analysis of Algorithms (DAA),20.4,24.8,69.3,2.8,19.8,1
+STU1053,Microcontrollers (MC),17.8,19.5,51.1,1.7,19.1,1
+STU1053,Artificial Intelligence,28.3,28.2,75.5,3.8,32.9,1
+STU1054,Computer Networks,37.1,35.2,74.6,3.5,34.2,1
+STU1054,Machine Learning,24.5,19.9,50.0,2.5,21.6,1
+STU1054,Design and Analysis of Algorithms (DAA),29.0,28.3,71.5,2.8,26.3,1
+STU1054,Microcontrollers (MC),35.2,33.5,81.6,3.5,36.0,1
+STU1054,Software Project Management,24.4,26.7,69.9,3.5,27.4,1
+STU1055,Computer Networks,15.3,16.4,50.0,2.0,16.9,1
+STU1055,Machine Learning,9.8,12.7,50.0,2.2,15.0,0
+STU1055,Design and Analysis of Algorithms (DAA),23.4,15.3,50.0,1.2,16.9,1
+STU1055,Microcontrollers (MC),14.4,9.8,50.0,1.8,11.2,0
+STU1055,Software Project Management,12.5,9.8,50.0,1.8,15.8,0
+STU1056,Computer Networks,15.9,14.9,61.1,1.9,17.2,1
+STU1056,Machine Learning,9.9,13.9,50.0,2.2,11.5,0
+STU1056,Design and Analysis of Algorithms (DAA),15.6,19.6,50.0,2.2,15.9,0
+STU1056,Microcontrollers (MC),11.9,8.7,50.0,0.5,13.8,0
+STU1056,Artificial Intelligence,12.2,15.3,50.0,2.9,14.8,0
+STU1057,Computer Networks,37.2,37.2,82.6,4.0,34.9,1
+STU1057,Machine Learning,25.6,29.8,72.0,4.1,31.1,1
+STU1057,Design and Analysis of Algorithms (DAA),32.0,30.4,100.0,4.6,33.3,1
+STU1057,Microcontrollers (MC),32.3,35.7,79.3,4.7,36.4,1
+STU1057,Artificial Intelligence,40.0,29.9,63.9,3.4,28.7,1
+STU1058,Computer Networks,35.1,35.1,83.4,3.8,36.3,1
+STU1058,Machine Learning,30.5,32.7,78.3,3.3,33.2,1
+STU1058,Design and Analysis of Algorithms (DAA),23.3,23.4,67.5,2.9,27.0,1
+STU1058,Microcontrollers (MC),30.0,27.6,79.5,3.9,29.3,1
+STU1058,Software Project Management,36.5,36.8,92.8,3.9,35.9,1
+STU1059,Computer Networks,32.1,27.0,63.0,3.2,30.6,1
+STU1059,Machine Learning,25.8,27.3,69.2,2.9,28.0,1
+STU1059,Design and Analysis of Algorithms (DAA),26.5,21.4,64.2,1.9,20.8,1
+STU1059,Microcontrollers (MC),21.1,23.0,62.0,3.5,26.8,1
+STU1059,Artificial Intelligence,29.1,24.3,50.0,2.9,26.8,1
+STU1060,Computer Networks,16.5,19.7,50.0,2.4,20.0,1
+STU1060,Machine Learning,15.0,19.7,50.0,2.3,15.4,0
+STU1060,Design and Analysis of Algorithms (DAA),11.2,13.4,50.0,1.4,15.8,0
+STU1060,Microcontrollers (MC),9.5,12.9,50.0,2.4,16.2,1
+STU1060,Artificial Intelligence,11.6,16.0,50.0,1.4,14.8,0
+STU1061,Computer Networks,26.1,24.1,56.7,3.1,24.2,1
+STU1061,Machine Learning,32.1,25.8,64.8,2.3,22.1,1
+STU1061,Design and Analysis of Algorithms (DAA),26.7,25.5,66.6,3.6,27.0,1
+STU1061,Microcontrollers (MC),23.3,28.7,52.3,3.8,28.5,1
+STU1061,Software Project Management,30.3,29.9,80.9,3.5,31.8,1
+STU1062,Computer Networks,17.6,19.6,51.6,2.8,20.6,1
+STU1062,Machine Learning,16.8,15.5,55.7,2.0,12.4,0
+STU1062,Design and Analysis of Algorithms (DAA),20.2,23.1,74.5,3.0,24.4,1
+STU1062,Microcontrollers (MC),25.3,26.6,50.8,3.4,27.3,1
+STU1062,Software Project Management,19.5,20.6,62.1,2.9,22.4,1
+STU1063,Computer Networks,22.4,28.1,60.8,3.7,25.6,1
+STU1063,Machine Learning,20.5,28.5,63.8,2.8,26.4,1
+STU1063,Design and Analysis of Algorithms (DAA),24.4,20.3,64.1,2.8,25.9,1
+STU1063,Microcontrollers (MC),31.7,29.3,86.8,3.4,33.2,1
+STU1063,Software Project Management,29.4,28.4,63.9,3.5,30.1,1
+STU1064,Computer Networks,17.2,20.6,60.8,3.0,21.8,1
+STU1064,Machine Learning,19.9,19.7,59.3,1.7,21.6,1
+STU1064,Design and Analysis of Algorithms (DAA),16.1,16.9,68.6,1.2,17.2,1
+STU1064,Microcontrollers (MC),16.7,19.3,50.5,2.4,18.7,1
+STU1064,Software Project Management,16.0,17.6,50.0,2.2,19.3,1
+STU1065,Computer Networks,15.1,17.2,56.5,2.7,22.0,1
+STU1065,Machine Learning,20.4,23.3,54.0,3.0,25.1,1
+STU1065,Design and Analysis of Algorithms (DAA),18.4,18.8,50.0,2.2,17.6,1
+STU1065,Microcontrollers (MC),16.7,19.6,54.6,2.1,13.6,0
+STU1065,Software Project Management,18.5,20.8,60.8,3.1,24.8,1
+STU1066,Computer Networks,22.1,24.4,55.3,3.0,28.4,1
+STU1066,Machine Learning,11.1,12.2,55.8,2.1,14.4,0
+STU1066,Design and Analysis of Algorithms (DAA),16.4,21.9,58.7,3.6,20.3,1
+STU1066,Microcontrollers (MC),10.1,16.7,63.0,2.3,18.1,1
+STU1066,Artificial Intelligence,23.4,24.9,66.1,1.9,20.3,1
+STU1067,Computer Networks,14.2,14.9,50.0,1.7,14.5,0
+STU1067,Machine Learning,24.9,23.8,58.9,3.2,27.0,1
+STU1067,Design and Analysis of Algorithms (DAA),20.2,21.4,56.0,3.1,20.0,1
+STU1067,Microcontrollers (MC),19.1,20.2,57.9,3.5,25.5,1
+STU1067,Artificial Intelligence,19.1,25.7,50.0,2.6,24.2,1
+STU1068,Computer Networks,23.7,24.5,50.0,2.5,25.4,1
+STU1068,Machine Learning,20.7,25.8,68.8,3.2,24.7,1
+STU1068,Design and Analysis of Algorithms (DAA),28.5,26.0,53.9,2.1,26.5,1
+STU1068,Microcontrollers (MC),24.7,21.5,50.0,2.7,21.5,1
+STU1068,Software Project Management,30.1,26.4,70.0,3.3,29.0,1
+STU1069,Computer Networks,28.9,30.0,72.8,2.9,26.4,1
+STU1069,Machine Learning,30.9,31.3,80.9,4.3,33.1,1
+STU1069,Design and Analysis of Algorithms (DAA),24.0,23.9,69.3,2.9,26.7,1
+STU1069,Microcontrollers (MC),22.4,27.1,81.1,3.1,25.9,1
+STU1069,Artificial Intelligence,28.5,27.1,82.3,2.5,29.3,1
+STU1070,Computer Networks,27.4,24.4,60.6,2.4,25.2,1
+STU1070,Machine Learning,25.3,24.9,56.8,2.1,20.4,1
+STU1070,Design and Analysis of Algorithms (DAA),20.9,16.3,50.0,2.2,17.0,1
+STU1070,Microcontrollers (MC),18.1,20.8,58.7,2.6,20.2,1
+STU1070,Artificial Intelligence,18.0,26.3,75.4,3.6,27.8,1
+STU1071,Computer Networks,26.4,28.2,79.6,2.9,29.5,1
+STU1071,Machine Learning,27.2,32.5,79.2,3.5,31.5,1
+STU1071,Design and Analysis of Algorithms (DAA),27.6,33.2,85.4,4.3,33.3,1
+STU1071,Microcontrollers (MC),36.6,36.5,82.0,4.5,37.3,1
+STU1071,Artificial Intelligence,37.8,35.0,85.6,2.7,35.5,1
+STU1072,Computer Networks,25.0,25.8,65.2,2.2,25.8,1
+STU1072,Machine Learning,26.3,25.3,50.0,2.7,25.3,1
+STU1072,Design and Analysis of Algorithms (DAA),25.1,25.8,63.3,2.5,22.0,1
+STU1072,Microcontrollers (MC),24.6,24.7,61.6,2.3,28.7,1
+STU1072,Software Project Management,10.6,9.0,54.7,1.6,13.5,0
+STU1073,Computer Networks,27.2,20.7,81.2,2.6,26.8,1
+STU1073,Machine Learning,30.7,27.6,65.1,2.8,29.8,1
+STU1073,Design and Analysis of Algorithms (DAA),36.9,28.3,86.7,3.1,33.6,1
+STU1073,Microcontrollers (MC),27.4,28.2,62.3,3.3,25.4,1
+STU1073,Software Project Management,34.7,30.1,74.8,3.1,31.9,1
+STU1074,Computer Networks,19.1,16.7,65.0,1.6,19.7,1
+STU1074,Machine Learning,15.9,18.5,50.0,1.6,15.3,0
+STU1074,Design and Analysis of Algorithms (DAA),14.1,13.8,50.0,1.3,19.5,1
+STU1074,Microcontrollers (MC),20.2,23.9,50.0,1.8,18.4,1
+STU1074,Artificial Intelligence,5.6,13.0,50.0,1.8,7.7,0
+STU1075,Computer Networks,29.5,28.9,78.8,3.2,27.8,1
+STU1075,Machine Learning,23.5,28.3,63.8,3.3,28.2,1
+STU1075,Design and Analysis of Algorithms (DAA),26.8,23.5,71.0,2.7,26.3,1
+STU1075,Microcontrollers (MC),27.3,27.0,70.0,3.2,27.4,1
+STU1075,Software Project Management,25.8,21.3,57.9,1.4,20.8,1
+STU1076,Computer Networks,7.7,12.9,50.0,1.8,13.9,0
+STU1076,Machine Learning,4.5,12.4,50.0,0.9,8.9,0
+STU1076,Design and Analysis of Algorithms (DAA),5.0,6.7,50.0,0.5,11.5,0
+STU1076,Microcontrollers (MC),4.9,16.8,50.0,1.9,15.1,0
+STU1076,Artificial Intelligence,12.8,16.8,50.0,1.9,14.3,0
+STU1077,Computer Networks,17.6,14.9,50.0,1.5,13.8,0
+STU1077,Machine Learning,29.8,28.3,66.7,3.0,27.2,1
+STU1077,Design and Analysis of Algorithms (DAA),7.2,15.5,50.0,2.7,18.0,1
+STU1077,Microcontrollers (MC),19.8,25.0,54.0,2.7,21.5,1
+STU1077,Software Project Management,17.8,17.1,50.0,1.1,20.0,1
+STU1078,Computer Networks,37.8,31.3,95.1,3.3,35.8,1
+STU1078,Machine Learning,27.2,30.9,81.4,3.7,31.6,1
+STU1078,Design and Analysis of Algorithms (DAA),33.4,24.5,73.6,2.3,27.5,1
+STU1078,Microcontrollers (MC),31.6,33.3,89.0,3.4,34.0,1
+STU1078,Artificial Intelligence,37.7,34.7,91.3,2.8,32.7,1
+STU1079,Computer Networks,16.1,17.8,50.0,1.8,16.1,1
+STU1079,Machine Learning,15.2,18.7,50.0,2.1,15.1,0
+STU1079,Design and Analysis of Algorithms (DAA),16.0,18.8,50.0,1.5,18.1,1
+STU1079,Microcontrollers (MC),7.7,9.8,50.0,2.1,15.5,0
+STU1079,Software Project Management,25.6,21.0,50.0,1.8,22.9,1
+STU1080,Computer Networks,22.4,21.8,50.2,1.5,18.1,1
+STU1080,Machine Learning,16.9,19.6,61.7,2.0,19.0,1
+STU1080,Design and Analysis of Algorithms (DAA),26.7,30.4,72.6,3.2,31.1,1
+STU1080,Microcontrollers (MC),16.2,22.0,50.0,4.4,20.2,1
+STU1080,Software Project Management,13.7,21.9,57.5,3.0,19.6,1
+STU1081,Computer Networks,32.6,33.2,72.6,4.4,33.5,1
+STU1081,Machine Learning,35.2,34.0,79.8,2.6,32.1,1
+STU1081,Design and Analysis of Algorithms (DAA),30.0,25.8,54.5,2.3,26.8,1
+STU1081,Microcontrollers (MC),23.7,22.5,60.7,3.7,25.0,1
+STU1081,Software Project Management,29.5,25.4,73.9,3.1,27.0,1
+STU1082,Computer Networks,30.0,30.4,75.5,4.8,32.8,1
+STU1082,Machine Learning,22.3,18.5,51.1,1.9,19.6,1
+STU1082,Design and Analysis of Algorithms (DAA),29.5,28.9,73.4,2.5,29.4,1
+STU1082,Microcontrollers (MC),24.1,24.3,69.5,1.8,23.7,1
+STU1082,Artificial Intelligence,24.8,25.0,53.8,3.5,27.8,1
+STU1083,Computer Networks,20.0,26.7,54.3,3.3,24.6,1
+STU1083,Machine Learning,29.6,28.9,67.1,3.8,25.0,1
+STU1083,Design and Analysis of Algorithms (DAA),31.1,34.3,67.3,3.4,34.8,1
+STU1083,Microcontrollers (MC),26.0,29.9,61.0,3.3,33.5,1
+STU1083,Artificial Intelligence,37.9,40.0,94.6,3.9,38.6,1
+STU1084,Computer Networks,12.0,13.4,50.0,2.0,14.9,0
+STU1084,Machine Learning,22.2,20.5,72.9,2.6,26.9,1
+STU1084,Design and Analysis of Algorithms (DAA),13.1,13.0,53.9,1.9,20.0,1
+STU1084,Microcontrollers (MC),17.8,21.0,55.8,3.0,21.9,1
+STU1084,Artificial Intelligence,11.9,15.9,60.2,2.2,17.5,1
+STU1085,Computer Networks,14.5,18.3,53.6,2.0,20.4,1
+STU1085,Machine Learning,21.4,23.9,50.2,2.1,21.8,1
+STU1085,Design and Analysis of Algorithms (DAA),16.2,15.1,50.0,2.2,17.4,1
+STU1085,Microcontrollers (MC),18.9,21.2,71.4,3.2,26.2,1
+STU1085,Artificial Intelligence,26.6,27.0,54.2,3.2,30.7,1
+STU1086,Computer Networks,14.4,16.5,51.9,2.4,19.8,1
+STU1086,Machine Learning,26.7,23.3,71.9,2.8,25.9,1
+STU1086,Design and Analysis of Algorithms (DAA),24.0,21.7,51.4,1.4,21.9,1
+STU1086,Microcontrollers (MC),35.1,33.7,72.7,4.5,37.3,1
+STU1086,Artificial Intelligence,21.3,18.5,55.8,2.4,23.1,1
+STU1087,Computer Networks,19.8,29.4,76.7,3.9,27.8,1
+STU1087,Machine Learning,21.7,24.3,50.6,2.7,22.0,1
+STU1087,Design and Analysis of Algorithms (DAA),26.2,26.2,75.4,3.1,27.1,1
+STU1087,Microcontrollers (MC),23.0,19.8,58.3,2.3,22.3,1
+STU1087,Software Project Management,25.1,26.2,62.9,3.2,27.5,1
+STU1088,Computer Networks,23.8,24.9,66.5,3.2,26.2,1
+STU1088,Machine Learning,14.1,18.6,50.0,2.3,14.6,0
+STU1088,Design and Analysis of Algorithms (DAA),15.1,20.0,66.6,3.1,23.7,1
+STU1088,Microcontrollers (MC),18.8,16.4,50.0,2.0,20.6,1
+STU1088,Artificial Intelligence,22.4,20.8,51.3,1.7,19.1,1
+STU1089,Computer Networks,16.0,14.3,50.0,2.1,13.6,0
+STU1089,Machine Learning,21.1,18.7,50.0,1.6,19.3,1
+STU1089,Design and Analysis of Algorithms (DAA),12.7,16.3,50.0,2.1,16.5,1
+STU1089,Microcontrollers (MC),10.4,14.9,50.0,1.6,15.1,0
+STU1089,Artificial Intelligence,13.8,14.6,50.0,2.4,15.6,0
+STU1090,Computer Networks,32.1,27.8,54.1,3.1,28.9,1
+STU1090,Machine Learning,29.7,34.4,64.4,4.3,31.7,1
+STU1090,Design and Analysis of Algorithms (DAA),33.2,32.7,88.4,3.8,36.5,1
+STU1090,Microcontrollers (MC),26.4,24.3,55.0,2.4,24.4,1
+STU1090,Artificial Intelligence,23.2,27.0,62.5,3.5,26.7,1
+STU1091,Computer Networks,12.4,19.8,50.0,1.5,17.0,1
+STU1091,Machine Learning,14.4,18.0,50.0,1.7,19.0,1
+STU1091,Design and Analysis of Algorithms (DAA),12.3,21.8,50.0,2.6,21.2,1
+STU1091,Microcontrollers (MC),20.2,20.1,50.6,3.4,22.2,1
+STU1091,Artificial Intelligence,15.3,14.1,50.0,1.9,15.2,0
+STU1092,Computer Networks,17.5,18.6,50.0,2.8,20.7,1
+STU1092,Machine Learning,10.8,17.6,50.0,2.3,16.5,1
+STU1092,Design and Analysis of Algorithms (DAA),22.3,20.2,50.0,2.3,19.9,1
+STU1092,Microcontrollers (MC),9.1,12.4,53.3,1.9,15.3,0
+STU1092,Software Project Management,5.0,8.9,50.0,1.5,11.8,0
+STU1093,Computer Networks,4.0,6.2,50.0,1.7,9.1,0
+STU1093,Machine Learning,10.8,13.4,50.0,2.1,12.3,0
+STU1093,Design and Analysis of Algorithms (DAA),6.9,8.6,50.0,1.1,10.7,0
+STU1093,Microcontrollers (MC),9.8,16.5,50.0,0.8,14.5,0
+STU1093,Artificial Intelligence,14.8,14.1,50.0,0.9,11.0,0
+STU1094,Computer Networks,20.8,24.9,56.0,2.7,21.9,1
+STU1094,Machine Learning,15.0,18.4,50.0,2.3,20.8,1
+STU1094,Design and Analysis of Algorithms (DAA),12.9,21.4,50.0,2.5,16.3,1
+STU1094,Microcontrollers (MC),7.7,15.6,50.0,2.2,18.0,1
+STU1094,Software Project Management,12.2,17.3,50.0,1.5,17.7,1
+STU1095,Computer Networks,28.4,31.4,66.9,3.7,30.7,1
+STU1095,Machine Learning,36.2,33.5,89.1,3.7,32.7,1
+STU1095,Design and Analysis of Algorithms (DAA),31.6,29.0,69.3,2.9,30.0,1
+STU1095,Microcontrollers (MC),28.2,26.9,72.4,3.3,31.1,1
+STU1095,Artificial Intelligence,28.1,27.7,86.8,3.0,28.0,1
+STU1096,Computer Networks,15.2,17.9,59.7,1.8,15.6,0
+STU1096,Machine Learning,24.5,30.1,59.5,2.5,27.1,1
+STU1096,Design and Analysis of Algorithms (DAA),16.2,16.9,70.1,1.7,17.8,1
+STU1096,Microcontrollers (MC),26.7,25.4,60.0,2.9,24.9,1
+STU1096,Software Project Management,32.3,29.4,64.8,2.1,26.8,1
+STU1097,Computer Networks,18.6,18.5,56.8,2.0,21.5,1
+STU1097,Machine Learning,20.9,21.4,61.9,1.6,21.5,1
+STU1097,Design and Analysis of Algorithms (DAA),12.5,13.8,50.0,2.3,17.1,1
+STU1097,Microcontrollers (MC),24.6,23.8,59.7,2.9,24.8,1
+STU1097,Software Project Management,30.3,27.0,57.3,1.9,23.8,1
+STU1098,Computer Networks,28.1,34.4,73.2,4.2,32.7,1
+STU1098,Machine Learning,31.2,30.8,89.8,3.5,33.2,1
+STU1098,Design and Analysis of Algorithms (DAA),28.9,22.4,69.3,3.1,27.1,1
+STU1098,Microcontrollers (MC),18.2,15.3,57.6,1.9,16.4,1
+STU1098,Software Project Management,35.9,34.3,82.6,3.8,34.9,1
+STU1099,Computer Networks,34.9,31.7,91.1,3.1,31.2,1
+STU1099,Machine Learning,28.7,26.4,80.8,3.3,32.8,1
+STU1099,Design and Analysis of Algorithms (DAA),35.2,32.4,70.6,3.6,35.7,1
+STU1099,Microcontrollers (MC),26.4,16.3,50.6,3.1,20.4,1
+STU1099,Software Project Management,29.3,22.8,59.1,2.5,22.9,1
+STU1100,Computer Networks,26.8,24.9,59.0,2.9,24.6,1
+STU1100,Machine Learning,14.5,20.0,52.3,1.8,18.7,1
+STU1100,Design and Analysis of Algorithms (DAA),14.0,13.9,50.0,2.6,17.2,1
+STU1100,Microcontrollers (MC),25.7,24.2,65.3,2.2,27.0,1
+STU1100,Artificial Intelligence,18.9,23.3,50.0,3.4,20.7,1
+STU1101,Computer Networks,33.6,36.3,78.4,4.1,38.5,1
+STU1101,Machine Learning,21.1,28.4,65.2,3.6,26.7,1
+STU1101,Design and Analysis of Algorithms (DAA),38.1,39.7,84.9,2.8,35.7,1
+STU1101,Microcontrollers (MC),34.8,27.8,58.5,4.2,26.9,1
+STU1101,Software Project Management,22.5,27.2,73.8,3.5,27.8,1
+STU1102,Computer Networks,21.4,18.7,69.7,3.5,22.5,1
+STU1102,Machine Learning,30.0,27.1,55.4,2.5,24.9,1
+STU1102,Design and Analysis of Algorithms (DAA),21.2,19.0,50.4,2.3,21.3,1
+STU1102,Microcontrollers (MC),29.2,28.8,83.6,3.3,32.6,1
+STU1102,Software Project Management,20.2,18.3,60.0,2.7,21.6,1
+STU1103,Computer Networks,27.4,29.9,72.0,4.2,31.6,1
+STU1103,Machine Learning,34.1,37.0,91.9,3.0,35.6,1
+STU1103,Design and Analysis of Algorithms (DAA),24.5,23.9,53.2,4.1,23.5,1
+STU1103,Microcontrollers (MC),26.7,28.0,71.3,3.5,26.3,1
+STU1103,Artificial Intelligence,20.7,21.2,57.0,3.2,22.6,1
+STU1104,Computer Networks,25.3,33.5,74.1,3.5,30.3,1
+STU1104,Machine Learning,13.4,17.3,70.9,1.7,17.9,1
+STU1104,Design and Analysis of Algorithms (DAA),22.2,21.0,67.0,2.1,20.4,1
+STU1104,Microcontrollers (MC),24.7,21.2,67.0,4.0,25.6,1
+STU1104,Software Project Management,27.8,27.4,68.4,2.8,30.7,1
+STU1105,Computer Networks,38.5,31.7,74.0,4.1,33.1,1
+STU1105,Machine Learning,33.6,33.3,73.9,3.6,34.4,1
+STU1105,Design and Analysis of Algorithms (DAA),32.9,35.6,74.6,4.6,33.6,1
+STU1105,Microcontrollers (MC),30.7,29.4,75.2,1.9,28.6,1
+STU1105,Artificial Intelligence,31.4,28.1,70.4,3.7,29.5,1
+STU1106,Computer Networks,24.3,26.6,70.2,4.0,28.2,1
+STU1106,Machine Learning,36.0,36.0,83.0,3.8,34.0,1
+STU1106,Design and Analysis of Algorithms (DAA),26.6,31.8,91.3,4.0,28.5,1
+STU1106,Microcontrollers (MC),29.7,32.6,99.2,3.0,29.5,1
+STU1106,Software Project Management,30.1,31.3,84.1,3.0,32.1,1
+STU1107,Computer Networks,29.7,26.8,81.3,2.9,34.6,1
+STU1107,Machine Learning,28.0,31.4,71.0,3.8,31.5,1
+STU1107,Design and Analysis of Algorithms (DAA),29.7,27.8,74.0,3.0,27.2,1
+STU1107,Microcontrollers (MC),36.0,31.7,73.3,4.0,32.1,1
+STU1107,Software Project Management,27.5,35.1,94.1,4.5,34.9,1
+STU1108,Computer Networks,20.7,31.0,64.7,3.9,29.6,1
+STU1108,Machine Learning,24.2,25.9,55.1,2.9,23.3,1
+STU1108,Design and Analysis of Algorithms (DAA),24.5,23.8,69.8,3.3,26.1,1
+STU1108,Microcontrollers (MC),25.7,22.5,50.0,3.1,22.2,1
+STU1108,Software Project Management,20.0,20.9,55.4,2.3,18.5,1
+STU1109,Computer Networks,10.1,7.8,50.0,1.8,13.8,0
+STU1109,Machine Learning,17.6,19.7,50.0,3.1,19.3,1
+STU1109,Design and Analysis of Algorithms (DAA),10.9,18.2,50.0,2.3,16.5,1
+STU1109,Microcontrollers (MC),17.9,29.2,50.0,3.7,27.7,1
+STU1109,Software Project Management,12.8,17.9,50.0,2.3,19.2,1
+STU1110,Computer Networks,24.9,21.8,50.0,2.7,21.7,1
+STU1110,Machine Learning,15.2,19.5,50.0,3.2,21.0,1
+STU1110,Design and Analysis of Algorithms (DAA),20.9,21.8,50.0,3.0,20.6,1
+STU1110,Microcontrollers (MC),28.0,24.6,69.1,2.5,24.4,1
+STU1110,Software Project Management,10.4,12.8,50.0,2.6,11.1,0
+STU1111,Computer Networks,25.9,23.5,61.0,3.6,24.8,1
+STU1111,Machine Learning,29.5,24.4,72.5,1.7,25.3,1
+STU1111,Design and Analysis of Algorithms (DAA),37.6,34.9,85.0,3.8,40.0,1
+STU1111,Microcontrollers (MC),30.7,27.7,60.0,3.3,26.7,1
+STU1111,Software Project Management,40.0,35.0,81.7,3.9,35.3,1
+STU1112,Computer Networks,24.8,23.1,66.4,2.7,27.2,1
+STU1112,Machine Learning,22.5,21.4,73.3,1.9,23.1,1
+STU1112,Design and Analysis of Algorithms (DAA),22.7,26.1,63.4,2.5,25.6,1
+STU1112,Microcontrollers (MC),21.3,22.7,56.6,3.4,22.5,1
+STU1112,Software Project Management,18.7,27.8,70.0,3.7,26.0,1
+STU1113,Computer Networks,27.4,26.4,67.2,3.1,29.7,1
+STU1113,Machine Learning,23.8,28.2,69.3,4.1,25.8,1
+STU1113,Design and Analysis of Algorithms (DAA),32.4,30.3,73.5,3.9,30.5,1
+STU1113,Microcontrollers (MC),23.9,31.4,87.2,4.1,28.1,1
+STU1113,Software Project Management,22.2,26.6,63.9,3.7,27.0,1
+STU1114,Computer Networks,28.4,26.6,58.7,3.0,23.4,1
+STU1114,Machine Learning,15.4,20.5,63.6,3.2,21.9,1
+STU1114,Design and Analysis of Algorithms (DAA),26.3,24.1,81.5,3.6,27.0,1
+STU1114,Microcontrollers (MC),31.7,33.3,88.1,3.7,32.7,1
+STU1114,Software Project Management,33.0,28.6,82.6,2.5,32.4,1
+STU1115,Computer Networks,17.2,18.5,52.4,2.5,14.9,0
+STU1115,Machine Learning,26.9,26.3,59.8,2.6,28.3,1
+STU1115,Design and Analysis of Algorithms (DAA),13.9,14.8,50.0,2.7,15.2,0
+STU1115,Microcontrollers (MC),14.7,19.0,50.0,2.3,20.2,1
+STU1115,Software Project Management,17.1,19.0,50.0,1.8,15.9,0
+STU1116,Computer Networks,28.9,26.9,76.4,2.9,28.5,1
+STU1116,Machine Learning,16.9,19.5,56.1,2.8,21.3,1
+STU1116,Design and Analysis of Algorithms (DAA),30.3,23.9,62.8,3.5,28.1,1
+STU1116,Microcontrollers (MC),26.2,26.3,70.4,2.8,23.5,1
+STU1116,Artificial Intelligence,32.7,29.6,58.0,2.3,26.2,1
+STU1117,Computer Networks,21.8,20.0,66.6,2.4,21.2,1
+STU1117,Machine Learning,21.0,19.0,58.7,1.9,21.8,1
+STU1117,Design and Analysis of Algorithms (DAA),26.1,19.3,73.8,2.5,24.3,1
+STU1117,Microcontrollers (MC),19.5,20.8,64.5,3.1,24.4,1
+STU1117,Artificial Intelligence,25.9,25.1,63.3,3.4,26.3,1
+STU1118,Computer Networks,24.6,24.3,50.0,2.7,24.1,1
+STU1118,Machine Learning,23.5,21.9,55.4,2.9,22.5,1
+STU1118,Design and Analysis of Algorithms (DAA),38.9,29.7,73.5,3.3,28.7,1
+STU1118,Microcontrollers (MC),27.4,26.8,72.8,3.2,31.2,1
+STU1118,Software Project Management,25.9,19.3,85.2,2.5,22.5,1
+STU1119,Computer Networks,23.7,19.2,60.8,2.5,22.5,1
+STU1119,Machine Learning,26.7,25.7,61.6,2.9,28.5,1
+STU1119,Design and Analysis of Algorithms (DAA),25.6,25.5,58.1,2.6,25.6,1
+STU1119,Microcontrollers (MC),16.1,15.0,59.1,1.9,17.1,1
+STU1119,Artificial Intelligence,30.8,26.7,63.0,4.1,28.9,1
+STU1120,Computer Networks,16.8,17.2,50.0,2.3,17.5,1
+STU1120,Machine Learning,21.8,20.8,56.4,2.7,22.4,1
+STU1120,Design and Analysis of Algorithms (DAA),16.9,19.0,50.4,1.8,18.1,1
+STU1120,Microcontrollers (MC),20.3,20.2,51.7,2.6,19.3,1
+STU1120,Software Project Management,16.5,20.4,50.0,2.4,19.6,1
+STU1121,Computer Networks,21.2,19.6,53.8,1.5,20.1,1
+STU1121,Machine Learning,18.4,27.0,50.0,3.0,23.5,1
+STU1121,Design and Analysis of Algorithms (DAA),9.9,11.2,50.0,1.8,16.1,1
+STU1121,Microcontrollers (MC),15.4,16.2,50.0,2.4,17.3,1
+STU1121,Artificial Intelligence,13.5,20.1,50.0,2.2,17.1,1
+STU1122,Computer Networks,25.9,22.5,84.5,3.7,27.9,1
+STU1122,Machine Learning,27.9,30.5,68.9,3.3,30.0,1
+STU1122,Design and Analysis of Algorithms (DAA),28.3,26.3,76.5,2.9,26.5,1
+STU1122,Microcontrollers (MC),27.6,23.9,74.3,3.5,26.5,1
+STU1122,Software Project Management,34.8,29.8,76.7,3.3,28.5,1
+STU1123,Computer Networks,20.2,18.0,50.0,2.2,18.0,1
+STU1123,Machine Learning,22.3,25.0,50.0,3.4,26.2,1
+STU1123,Design and Analysis of Algorithms (DAA),16.8,18.6,50.0,2.3,21.5,1
+STU1123,Microcontrollers (MC),27.3,24.9,71.0,2.1,26.7,1
+STU1123,Artificial Intelligence,19.7,21.3,57.5,2.2,17.2,1
+STU1124,Computer Networks,21.6,19.1,53.8,2.8,18.0,1
+STU1124,Machine Learning,19.4,20.6,50.2,2.3,22.3,1
+STU1124,Design and Analysis of Algorithms (DAA),18.9,15.9,52.8,2.5,21.0,1
+STU1124,Microcontrollers (MC),17.9,24.6,76.4,4.1,31.2,1
+STU1124,Artificial Intelligence,20.3,23.5,56.0,1.5,23.9,1
+STU1125,Computer Networks,32.8,29.4,69.9,3.0,32.6,1
+STU1125,Machine Learning,25.3,24.6,76.3,2.7,25.1,1
+STU1125,Design and Analysis of Algorithms (DAA),30.1,29.0,84.9,3.3,32.3,1
+STU1125,Microcontrollers (MC),32.5,30.3,78.3,2.5,28.3,1
+STU1125,Software Project Management,27.1,27.1,80.7,2.4,29.5,1
+STU1126,Computer Networks,24.3,26.0,76.7,2.0,25.2,1
+STU1126,Machine Learning,17.6,19.0,56.6,2.3,18.6,1
+STU1126,Design and Analysis of Algorithms (DAA),32.7,25.1,63.9,3.1,30.2,1
+STU1126,Microcontrollers (MC),28.4,29.0,71.4,3.5,32.7,1
+STU1126,Artificial Intelligence,23.2,25.1,79.2,3.0,28.8,1
+STU1127,Computer Networks,16.9,19.2,54.2,2.8,19.8,1
+STU1127,Machine Learning,18.5,22.5,50.0,2.4,20.3,1
+STU1127,Design and Analysis of Algorithms (DAA),11.8,12.9,50.0,1.8,13.0,0
+STU1127,Microcontrollers (MC),16.7,19.0,59.0,2.5,20.5,1
+STU1127,Artificial Intelligence,10.3,19.2,55.8,1.9,14.8,0
+STU1128,Computer Networks,4.0,13.1,50.0,2.8,14.1,0
+STU1128,Machine Learning,4.0,8.2,50.0,0.8,7.7,0
+STU1128,Design and Analysis of Algorithms (DAA),6.5,12.9,50.0,1.8,15.3,0
+STU1128,Microcontrollers (MC),15.4,10.8,50.0,2.1,15.1,0
+STU1128,Artificial Intelligence,7.8,5.9,50.0,0.8,9.7,0
+STU1129,Computer Networks,40.0,39.4,84.9,3.8,40.0,1
+STU1129,Machine Learning,34.2,27.9,73.7,2.4,29.0,1
+STU1129,Design and Analysis of Algorithms (DAA),34.6,32.2,100.0,4.0,38.0,1
+STU1129,Microcontrollers (MC),31.7,31.1,98.3,4.3,34.8,1
+STU1129,Software Project Management,25.6,30.5,82.4,4.1,32.8,1
+STU1130,Computer Networks,23.3,18.4,66.2,3.1,23.1,1
+STU1130,Machine Learning,28.3,20.5,78.6,2.1,26.9,1
+STU1130,Design and Analysis of Algorithms (DAA),21.0,22.4,75.0,3.4,25.7,1
+STU1130,Microcontrollers (MC),18.2,15.8,67.5,2.6,20.1,1
+STU1130,Software Project Management,30.9,28.2,64.1,3.4,28.7,1
+STU1131,Computer Networks,34.0,36.4,92.6,3.9,35.8,1
+STU1131,Machine Learning,24.1,25.5,77.2,3.1,24.8,1
+STU1131,Design and Analysis of Algorithms (DAA),20.8,22.1,56.9,3.3,24.5,1
+STU1131,Microcontrollers (MC),25.1,30.4,81.5,3.5,27.8,1
+STU1131,Artificial Intelligence,30.6,30.3,83.2,4.2,30.0,1
+STU1132,Computer Networks,14.5,13.0,50.0,2.0,15.9,0
+STU1132,Machine Learning,14.9,13.6,50.0,1.6,14.2,0
+STU1132,Design and Analysis of Algorithms (DAA),9.2,12.3,50.0,1.7,13.4,0
+STU1132,Microcontrollers (MC),19.9,18.4,50.0,2.7,23.3,1
+STU1132,Artificial Intelligence,15.6,14.2,50.0,0.9,12.6,0
+STU1133,Computer Networks,25.2,29.0,76.5,3.5,33.0,1
+STU1133,Machine Learning,27.6,26.6,79.4,2.6,26.4,1
+STU1133,Design and Analysis of Algorithms (DAA),28.4,33.7,86.6,5.0,32.2,1
+STU1133,Microcontrollers (MC),19.1,22.7,66.1,3.0,22.2,1
+STU1133,Software Project Management,24.9,22.9,69.5,2.6,25.4,1
+STU1134,Computer Networks,20.1,19.2,58.9,2.0,19.8,1
+STU1134,Machine Learning,16.9,21.4,55.8,4.0,23.9,1
+STU1134,Design and Analysis of Algorithms (DAA),25.3,23.9,62.1,2.8,27.7,1
+STU1134,Microcontrollers (MC),24.1,22.9,71.6,2.3,22.0,1
+STU1134,Artificial Intelligence,18.7,26.0,57.1,3.1,22.7,1
+STU1135,Computer Networks,26.8,26.8,85.7,2.6,29.1,1
+STU1135,Machine Learning,24.3,27.0,78.2,3.3,26.5,1
+STU1135,Design and Analysis of Algorithms (DAA),22.4,19.9,69.8,3.0,27.0,1
+STU1135,Microcontrollers (MC),30.2,29.0,73.0,2.5,27.1,1
+STU1135,Software Project Management,23.8,23.2,55.8,2.7,26.4,1
+STU1136,Computer Networks,22.1,20.3,57.9,2.1,23.2,1
+STU1136,Machine Learning,15.7,22.5,69.5,1.6,19.2,1
+STU1136,Design and Analysis of Algorithms (DAA),12.7,17.9,50.0,3.0,18.1,1
+STU1136,Microcontrollers (MC),18.2,26.8,56.6,3.0,24.0,1
+STU1136,Software Project Management,26.4,22.9,67.4,2.1,25.5,1
+STU1137,Computer Networks,20.7,26.0,76.9,3.6,26.4,1
+STU1137,Machine Learning,14.4,22.2,70.2,3.3,22.0,1
+STU1137,Design and Analysis of Algorithms (DAA),26.2,26.3,68.8,3.7,25.9,1
+STU1137,Microcontrollers (MC),17.6,21.9,51.7,2.7,18.7,1
+STU1137,Software Project Management,29.7,26.7,64.0,2.8,27.0,1
+STU1138,Computer Networks,28.4,23.1,70.0,2.3,26.5,1
+STU1138,Machine Learning,24.6,24.6,74.0,3.1,29.3,1
+STU1138,Design and Analysis of Algorithms (DAA),16.8,17.2,50.0,2.9,16.4,1
+STU1138,Microcontrollers (MC),24.5,24.6,55.6,2.7,24.2,1
+STU1138,Software Project Management,22.1,23.2,62.3,3.4,22.8,1
+STU1139,Computer Networks,24.3,22.2,57.8,2.8,21.5,1
+STU1139,Machine Learning,24.3,20.1,67.3,2.4,18.9,1
+STU1139,Design and Analysis of Algorithms (DAA),23.8,31.7,62.9,2.7,29.8,1
+STU1139,Microcontrollers (MC),19.8,22.3,50.0,2.8,20.6,1
+STU1139,Artificial Intelligence,24.6,22.1,50.4,2.9,25.8,1
+STU1140,Computer Networks,32.3,27.9,76.8,2.9,23.3,1
+STU1140,Machine Learning,37.0,37.6,70.4,3.5,35.3,1
+STU1140,Design and Analysis of Algorithms (DAA),27.7,25.0,73.0,2.8,27.2,1
+STU1140,Microcontrollers (MC),28.8,24.2,77.9,2.6,28.3,1
+STU1140,Artificial Intelligence,24.9,24.3,69.5,3.6,27.7,1
+STU1141,Computer Networks,19.1,13.1,50.0,2.0,19.4,1
+STU1141,Machine Learning,19.6,20.6,66.6,2.3,25.9,1
+STU1141,Design and Analysis of Algorithms (DAA),26.8,32.0,65.4,3.0,30.3,1
+STU1141,Microcontrollers (MC),18.1,21.2,52.9,2.7,18.3,1
+STU1141,Software Project Management,17.6,19.8,59.4,2.7,22.9,1
+STU1142,Computer Networks,27.6,24.3,53.0,3.0,27.1,1
+STU1142,Machine Learning,19.1,18.0,55.1,1.8,21.5,1
+STU1142,Design and Analysis of Algorithms (DAA),20.4,20.8,62.0,2.4,20.1,1
+STU1142,Microcontrollers (MC),23.9,26.2,62.3,2.9,27.8,1
+STU1142,Software Project Management,22.8,22.6,62.7,1.8,18.5,1
+STU1143,Computer Networks,30.6,28.9,60.1,2.3,26.4,1
+STU1143,Machine Learning,31.5,31.9,77.9,4.0,31.9,1
+STU1143,Design and Analysis of Algorithms (DAA),29.7,28.4,74.3,3.5,27.9,1
+STU1143,Microcontrollers (MC),26.4,32.1,78.6,4.4,32.3,1
+STU1143,Artificial Intelligence,35.0,33.2,93.4,4.0,35.9,1
+STU1144,Computer Networks,24.5,25.7,50.0,2.7,23.9,1
+STU1144,Machine Learning,17.0,16.1,57.8,1.3,18.1,1
+STU1144,Design and Analysis of Algorithms (DAA),23.4,19.7,52.4,2.4,23.9,1
+STU1144,Microcontrollers (MC),19.8,20.3,59.7,2.9,21.1,1
+STU1144,Software Project Management,24.3,22.3,59.2,2.3,21.8,1
+STU1145,Computer Networks,21.4,26.6,73.1,3.2,26.8,1
+STU1145,Machine Learning,21.7,26.0,61.5,2.9,27.6,1
+STU1145,Design and Analysis of Algorithms (DAA),27.4,25.5,69.2,3.1,19.7,1
+STU1145,Microcontrollers (MC),36.0,33.8,87.7,3.6,34.0,1
+STU1145,Artificial Intelligence,21.9,22.4,54.2,2.2,23.5,1
+STU1146,Computer Networks,21.4,23.6,65.8,3.2,26.9,1
+STU1146,Machine Learning,19.0,24.6,68.9,3.2,24.8,1
+STU1146,Design and Analysis of Algorithms (DAA),33.6,29.9,87.7,2.6,31.2,1
+STU1146,Microcontrollers (MC),22.3,23.3,80.5,3.6,25.5,1
+STU1146,Software Project Management,32.0,34.3,76.4,4.0,34.6,1
+STU1147,Computer Networks,19.5,22.9,50.0,2.7,22.0,1
+STU1147,Machine Learning,15.5,24.6,50.0,2.3,23.6,1
+STU1147,Design and Analysis of Algorithms (DAA),12.1,19.9,50.0,2.7,16.9,1
+STU1147,Microcontrollers (MC),14.1,15.5,50.0,2.3,15.0,0
+STU1147,Artificial Intelligence,26.7,20.6,51.5,1.9,24.2,1
+STU1148,Computer Networks,25.2,22.3,62.2,3.3,23.0,1
+STU1148,Machine Learning,24.3,30.8,77.8,3.7,29.8,1
+STU1148,Design and Analysis of Algorithms (DAA),24.8,26.3,70.9,3.2,28.7,1
+STU1148,Microcontrollers (MC),31.1,29.9,73.9,3.5,30.0,1
+STU1148,Artificial Intelligence,18.7,17.8,61.2,3.1,17.3,1
+STU1149,Computer Networks,23.1,26.5,62.5,1.9,25.5,1
+STU1149,Machine Learning,28.1,31.3,78.5,3.9,32.2,1
+STU1149,Design and Analysis of Algorithms (DAA),29.5,23.4,65.0,2.3,26.9,1
+STU1149,Microcontrollers (MC),30.7,27.0,67.0,2.3,29.0,1
+STU1149,Software Project Management,23.1,24.4,72.1,1.3,23.3,1
+STU1150,Computer Networks,23.4,26.0,64.0,2.6,24.7,1
+STU1150,Machine Learning,21.7,26.4,64.3,2.5,24.9,1
+STU1150,Design and Analysis of Algorithms (DAA),29.0,22.5,60.0,2.9,25.7,1
+STU1150,Microcontrollers (MC),27.3,31.8,68.5,3.6,28.7,1
+STU1150,Artificial Intelligence,29.9,32.2,69.1,2.4,29.6,1
+STU1151,Computer Networks,31.8,33.5,83.2,3.6,31.3,1
+STU1151,Machine Learning,34.8,29.3,78.2,3.2,32.8,1
+STU1151,Design and Analysis of Algorithms (DAA),32.0,34.6,73.9,4.5,37.5,1
+STU1151,Microcontrollers (MC),35.7,30.7,79.5,3.8,29.8,1
+STU1151,Artificial Intelligence,26.3,23.2,51.9,2.7,23.9,1
+STU1152,Computer Networks,11.8,15.5,50.0,2.4,16.5,1
+STU1152,Machine Learning,19.2,20.5,50.0,2.4,21.5,1
+STU1152,Design and Analysis of Algorithms (DAA),13.4,14.1,50.0,2.0,14.3,0
+STU1152,Microcontrollers (MC),12.0,18.8,50.0,2.6,18.5,1
+STU1152,Artificial Intelligence,16.3,24.1,50.0,2.5,20.0,1
+STU1153,Computer Networks,28.6,28.2,72.6,3.4,25.4,1
+STU1153,Machine Learning,24.2,29.4,60.3,3.3,30.8,1
+STU1153,Design and Analysis of Algorithms (DAA),31.9,32.8,78.3,3.9,31.7,1
+STU1153,Microcontrollers (MC),40.0,33.0,76.3,2.4,30.8,1
+STU1153,Software Project Management,31.5,30.6,68.6,3.2,31.0,1
+STU1154,Computer Networks,11.9,16.8,61.7,1.8,18.2,1
+STU1154,Machine Learning,16.3,20.6,50.0,2.4,24.8,1
+STU1154,Design and Analysis of Algorithms (DAA),19.0,20.3,50.0,2.0,20.0,1
+STU1154,Microcontrollers (MC),24.2,19.5,53.8,2.1,22.5,1
+STU1154,Software Project Management,20.1,18.1,50.0,2.0,14.1,0
+STU1155,Computer Networks,30.7,33.6,74.5,4.2,33.8,1
+STU1155,Machine Learning,28.6,26.5,80.5,3.4,30.4,1
+STU1155,Design and Analysis of Algorithms (DAA),29.2,33.1,89.9,3.6,31.0,1
+STU1155,Microcontrollers (MC),18.3,22.9,60.7,1.6,17.8,1
+STU1155,Software Project Management,23.3,19.2,64.9,2.9,24.4,1
+STU1156,Computer Networks,17.4,17.1,50.0,3.1,21.1,1
+STU1156,Machine Learning,22.7,21.1,75.2,1.8,23.9,1
+STU1156,Design and Analysis of Algorithms (DAA),11.8,11.9,50.0,1.3,14.6,0
+STU1156,Microcontrollers (MC),20.8,20.3,57.5,3.4,25.6,1
+STU1156,Artificial Intelligence,16.0,15.6,50.0,2.9,16.6,1
+STU1157,Computer Networks,26.9,20.8,61.7,1.4,21.2,1
+STU1157,Machine Learning,22.9,32.2,75.3,4.5,32.2,1
+STU1157,Design and Analysis of Algorithms (DAA),34.1,28.0,73.1,3.2,29.8,1
+STU1157,Microcontrollers (MC),32.4,32.9,92.0,2.9,34.1,1
+STU1157,Artificial Intelligence,33.7,37.2,85.4,3.9,35.2,1
+STU1158,Computer Networks,29.5,28.4,83.3,3.0,29.1,1
+STU1158,Machine Learning,31.3,29.4,77.3,3.8,30.7,1
+STU1158,Design and Analysis of Algorithms (DAA),25.9,30.7,86.1,3.2,28.5,1
+STU1158,Microcontrollers (MC),28.6,30.3,78.1,3.3,23.2,1
+STU1158,Artificial Intelligence,34.6,36.0,76.9,3.8,35.6,1
+STU1159,Computer Networks,25.5,23.3,72.2,3.3,28.9,1
+STU1159,Machine Learning,39.6,36.8,88.7,3.9,36.7,1
+STU1159,Design and Analysis of Algorithms (DAA),27.6,29.9,88.8,3.4,32.1,1
+STU1159,Microcontrollers (MC),34.8,31.8,85.4,3.0,31.2,1
+STU1159,Software Project Management,28.4,26.7,78.9,2.6,28.9,1
+STU1160,Computer Networks,18.3,18.1,50.0,1.9,18.8,1
+STU1160,Machine Learning,20.3,15.9,55.3,2.4,19.8,1
+STU1160,Design and Analysis of Algorithms (DAA),18.4,17.6,50.0,2.6,19.5,1
+STU1160,Microcontrollers (MC),21.5,19.3,57.2,2.1,19.6,1
+STU1160,Artificial Intelligence,21.9,19.9,60.3,2.0,17.1,1
+STU1161,Computer Networks,23.6,22.0,68.6,2.9,24.1,1
+STU1161,Machine Learning,40.0,33.3,73.3,2.2,33.5,1
+STU1161,Design and Analysis of Algorithms (DAA),37.6,35.8,88.0,3.1,34.2,1
+STU1161,Microcontrollers (MC),33.4,35.0,77.4,3.5,32.8,1
+STU1161,Software Project Management,30.5,35.9,92.5,3.2,35.4,1
+STU1162,Computer Networks,20.4,17.9,51.2,1.4,21.6,1
+STU1162,Machine Learning,28.2,26.8,61.0,3.1,26.3,1
+STU1162,Design and Analysis of Algorithms (DAA),19.2,14.7,58.6,2.8,16.5,1
+STU1162,Microcontrollers (MC),28.0,26.5,50.0,3.5,28.4,1
+STU1162,Artificial Intelligence,27.5,27.1,61.8,2.0,23.3,1
+STU1163,Computer Networks,12.3,13.4,53.6,2.0,14.5,0
+STU1163,Machine Learning,23.7,21.2,67.7,1.8,18.3,1
+STU1163,Design and Analysis of Algorithms (DAA),18.2,23.0,56.5,2.4,19.8,1
+STU1163,Microcontrollers (MC),17.2,20.9,50.0,2.6,18.2,1
+STU1163,Artificial Intelligence,19.5,19.7,50.0,1.4,17.9,1
+STU1164,Computer Networks,26.3,26.8,63.7,3.7,27.7,1
+STU1164,Machine Learning,33.6,33.2,77.2,4.3,39.5,1
+STU1164,Design and Analysis of Algorithms (DAA),29.4,29.6,64.4,2.2,31.2,1
+STU1164,Microcontrollers (MC),25.8,33.0,81.2,3.3,32.1,1
+STU1164,Software Project Management,28.9,27.1,81.7,2.5,29.4,1
+STU1165,Computer Networks,25.8,32.6,66.7,3.6,27.0,1
+STU1165,Machine Learning,24.8,22.6,55.5,4.4,25.1,1
+STU1165,Design and Analysis of Algorithms (DAA),30.5,27.8,66.2,3.1,28.8,1
+STU1165,Microcontrollers (MC),28.3,25.0,64.5,2.2,24.6,1
+STU1165,Software Project Management,25.6,26.8,69.8,4.0,28.5,1
+STU1166,Computer Networks,20.7,27.0,64.6,2.9,24.4,1
+STU1166,Machine Learning,20.3,24.3,74.0,3.0,24.2,1
+STU1166,Design and Analysis of Algorithms (DAA),24.8,26.2,76.0,3.3,29.4,1
+STU1166,Microcontrollers (MC),19.3,20.3,63.4,2.3,21.5,1
+STU1166,Software Project Management,27.4,30.4,78.9,3.5,31.3,1
+STU1167,Computer Networks,29.9,31.7,73.2,3.6,32.0,1
+STU1167,Machine Learning,16.5,19.2,58.7,3.3,19.3,1
+STU1167,Design and Analysis of Algorithms (DAA),25.6,21.2,76.4,1.7,25.1,1
+STU1167,Microcontrollers (MC),28.0,31.1,63.7,2.8,26.7,1
+STU1167,Software Project Management,25.1,25.4,60.3,2.1,23.4,1
+STU1168,Computer Networks,16.6,20.1,50.0,2.4,21.2,1
+STU1168,Machine Learning,17.3,21.1,58.9,3.7,28.6,1
+STU1168,Design and Analysis of Algorithms (DAA),23.7,22.9,51.2,2.5,22.0,1
+STU1168,Microcontrollers (MC),19.7,17.1,50.8,1.8,15.4,0
+STU1168,Artificial Intelligence,25.5,23.7,64.6,2.2,20.8,1
+STU1169,Computer Networks,32.5,31.9,76.6,3.4,32.2,1
+STU1169,Machine Learning,38.5,39.3,79.4,4.9,35.5,1
+STU1169,Design and Analysis of Algorithms (DAA),31.1,27.2,80.0,3.0,30.2,1
+STU1169,Microcontrollers (MC),29.4,33.7,96.2,5.0,33.9,1
+STU1169,Artificial Intelligence,36.9,31.1,85.2,3.8,32.8,1
+STU1170,Computer Networks,24.7,23.1,56.0,2.4,24.3,1
+STU1170,Machine Learning,32.8,30.5,74.0,3.1,30.4,1
+STU1170,Design and Analysis of Algorithms (DAA),36.2,40.0,100.0,2.9,38.0,1
+STU1170,Microcontrollers (MC),33.5,28.9,77.8,3.7,31.5,1
+STU1170,Software Project Management,24.6,18.5,60.3,2.2,20.4,1
+STU1171,Computer Networks,29.7,28.5,80.3,3.2,28.4,1
+STU1171,Machine Learning,36.1,31.9,80.0,2.4,30.7,1
+STU1171,Design and Analysis of Algorithms (DAA),32.2,36.0,93.8,3.4,39.2,1
+STU1171,Microcontrollers (MC),34.8,27.9,69.4,3.1,29.7,1
+STU1171,Software Project Management,34.3,38.0,73.1,4.1,37.8,1
+STU1172,Computer Networks,16.1,14.2,59.4,2.8,17.5,1
+STU1172,Machine Learning,30.2,29.2,62.8,3.5,28.1,1
+STU1172,Design and Analysis of Algorithms (DAA),10.1,9.1,50.0,1.1,10.7,0
+STU1172,Microcontrollers (MC),21.7,17.3,50.0,1.6,15.2,0
+STU1172,Software Project Management,21.9,20.0,50.0,2.3,20.7,1
+STU1173,Computer Networks,26.6,17.8,50.0,2.4,21.2,1
+STU1173,Machine Learning,9.4,12.4,50.0,0.5,12.5,0
+STU1173,Design and Analysis of Algorithms (DAA),8.2,10.0,50.0,2.0,12.0,0
+STU1173,Microcontrollers (MC),22.2,22.2,50.0,2.6,23.7,1
+STU1173,Software Project Management,11.7,16.8,50.0,2.7,19.9,1
+STU1174,Computer Networks,11.9,18.2,62.2,2.7,17.0,1
+STU1174,Machine Learning,11.6,12.2,50.0,2.3,13.8,0
+STU1174,Design and Analysis of Algorithms (DAA),14.2,13.9,50.0,2.5,13.7,0
+STU1174,Microcontrollers (MC),25.2,26.6,50.0,3.1,24.9,1
+STU1174,Artificial Intelligence,7.8,9.9,50.0,2.7,12.2,0
+STU1175,Computer Networks,32.1,27.2,78.7,2.8,27.8,1
+STU1175,Machine Learning,19.4,24.9,96.5,3.4,28.3,1
+STU1175,Design and Analysis of Algorithms (DAA),30.0,27.3,74.8,3.1,27.6,1
+STU1175,Microcontrollers (MC),37.4,34.9,79.6,3.4,30.9,1
+STU1175,Software Project Management,28.1,32.4,86.9,4.2,33.3,1
+STU1176,Computer Networks,18.1,17.4,50.0,2.3,21.2,1
+STU1176,Machine Learning,9.8,11.7,50.0,1.7,14.9,0
+STU1176,Design and Analysis of Algorithms (DAA),18.8,17.9,53.6,2.1,23.3,1
+STU1176,Microcontrollers (MC),6.8,16.2,54.4,1.9,15.3,0
+STU1176,Artificial Intelligence,15.0,21.0,58.7,2.5,20.4,1
+STU1177,Computer Networks,34.1,35.0,76.0,3.4,35.5,1
+STU1177,Machine Learning,40.0,32.3,86.7,4.7,36.3,1
+STU1177,Design and Analysis of Algorithms (DAA),40.0,35.5,89.1,3.3,36.5,1
+STU1177,Microcontrollers (MC),35.7,32.3,75.3,2.9,31.2,1
+STU1177,Artificial Intelligence,38.0,37.4,90.9,4.1,38.5,1
+STU1178,Computer Networks,13.0,15.9,50.0,0.9,14.5,0
+STU1178,Machine Learning,23.9,23.4,50.0,2.2,23.4,1
+STU1178,Design and Analysis of Algorithms (DAA),29.0,21.5,58.9,2.6,26.4,1
+STU1178,Microcontrollers (MC),19.9,19.1,50.8,2.1,18.9,1
+STU1178,Artificial Intelligence,15.4,16.8,50.0,1.8,21.1,1
+STU1179,Computer Networks,30.1,29.9,80.2,3.5,30.8,1
+STU1179,Machine Learning,28.1,26.4,70.3,3.2,29.6,1
+STU1179,Design and Analysis of Algorithms (DAA),35.6,29.6,69.5,3.2,32.3,1
+STU1179,Microcontrollers (MC),30.5,26.5,74.2,3.1,26.9,1
+STU1179,Software Project Management,38.8,34.1,98.3,3.5,35.1,1
+STU1180,Computer Networks,29.1,31.3,58.9,3.2,28.1,1
+STU1180,Machine Learning,27.0,25.9,51.2,1.8,24.8,1
+STU1180,Design and Analysis of Algorithms (DAA),27.9,27.3,76.4,3.2,25.6,1
+STU1180,Microcontrollers (MC),26.7,27.0,68.5,3.5,26.4,1
+STU1180,Software Project Management,26.1,25.4,73.4,2.3,24.3,1
+STU1181,Computer Networks,16.5,20.0,50.0,3.1,22.7,1
+STU1181,Machine Learning,27.9,26.8,73.9,3.1,28.1,1
+STU1181,Design and Analysis of Algorithms (DAA),22.2,22.7,50.1,2.6,23.5,1
+STU1181,Microcontrollers (MC),15.8,20.8,56.1,2.9,20.5,1
+STU1181,Artificial Intelligence,25.4,27.3,54.0,3.5,26.9,1
+STU1182,Computer Networks,15.1,16.1,50.0,2.1,14.4,0
+STU1182,Machine Learning,14.3,14.7,54.4,1.9,15.6,0
+STU1182,Design and Analysis of Algorithms (DAA),16.3,12.8,50.0,1.7,14.7,0
+STU1182,Microcontrollers (MC),11.3,8.0,50.0,0.5,6.6,0
+STU1182,Software Project Management,4.0,8.6,50.0,2.2,10.4,0
+STU1183,Computer Networks,31.0,30.7,71.8,2.9,31.1,1
+STU1183,Machine Learning,31.9,34.4,86.1,4.0,33.6,1
+STU1183,Design and Analysis of Algorithms (DAA),36.3,31.9,78.3,2.2,32.1,1
+STU1183,Microcontrollers (MC),27.8,23.3,69.0,3.3,23.8,1
+STU1183,Artificial Intelligence,34.9,32.0,73.4,4.4,36.5,1
+STU1184,Computer Networks,22.4,26.3,67.1,2.9,26.0,1
+STU1184,Machine Learning,18.2,19.5,55.1,2.4,17.8,1
+STU1184,Design and Analysis of Algorithms (DAA),25.3,27.9,77.9,3.7,32.8,1
+STU1184,Microcontrollers (MC),29.4,28.1,69.7,2.3,26.4,1
+STU1184,Artificial Intelligence,17.2,21.1,67.8,3.0,24.3,1
+STU1185,Computer Networks,18.2,18.7,50.0,1.8,18.5,1
+STU1185,Machine Learning,15.2,20.7,55.8,3.2,19.6,1
+STU1185,Design and Analysis of Algorithms (DAA),17.8,23.2,60.4,1.8,22.8,1
+STU1185,Microcontrollers (MC),24.9,23.3,51.1,1.7,23.7,1
+STU1185,Software Project Management,25.7,24.2,56.4,1.9,26.7,1
+STU1186,Computer Networks,30.3,29.7,79.2,2.6,27.5,1
+STU1186,Machine Learning,27.0,29.1,52.7,3.2,27.4,1
+STU1186,Design and Analysis of Algorithms (DAA),23.0,22.6,77.5,2.6,23.8,1
+STU1186,Microcontrollers (MC),22.2,24.2,55.2,3.2,23.5,1
+STU1186,Software Project Management,26.5,28.7,64.6,2.8,26.3,1
+STU1187,Computer Networks,33.3,31.1,88.3,1.9,29.3,1
+STU1187,Machine Learning,31.8,33.0,80.4,3.3,29.2,1
+STU1187,Design and Analysis of Algorithms (DAA),39.1,37.7,90.4,4.3,37.4,1
+STU1187,Microcontrollers (MC),39.3,35.2,86.0,3.4,38.6,1
+STU1187,Artificial Intelligence,30.1,28.6,76.0,3.6,32.1,1
+STU1188,Computer Networks,36.0,29.2,79.8,3.1,30.2,1
+STU1188,Machine Learning,40.0,29.3,85.0,3.1,32.5,1
+STU1188,Design and Analysis of Algorithms (DAA),31.2,31.3,80.9,2.7,33.1,1
+STU1188,Microcontrollers (MC),36.4,34.1,81.0,4.1,30.9,1
+STU1188,Software Project Management,27.6,29.8,70.0,3.0,31.6,1
+STU1189,Computer Networks,17.4,20.4,51.7,3.3,20.7,1
+STU1189,Machine Learning,19.1,17.9,59.5,2.7,19.9,1
+STU1189,Design and Analysis of Algorithms (DAA),20.7,23.0,67.9,2.9,23.2,1
+STU1189,Microcontrollers (MC),19.3,24.8,51.2,3.2,24.7,1
+STU1189,Software Project Management,13.5,17.2,50.0,2.5,16.9,1
+STU1190,Computer Networks,23.3,20.6,52.3,2.6,21.5,1
+STU1190,Machine Learning,24.1,25.6,75.9,3.2,27.9,1
+STU1190,Design and Analysis of Algorithms (DAA),18.9,17.4,50.0,3.0,16.8,1
+STU1190,Microcontrollers (MC),19.6,15.6,50.0,1.2,16.4,1
+STU1190,Artificial Intelligence,17.8,21.4,68.8,2.8,25.2,1
+STU1191,Computer Networks,32.6,27.0,87.7,2.6,27.1,1
+STU1191,Machine Learning,26.4,28.8,82.8,3.0,32.0,1
+STU1191,Design and Analysis of Algorithms (DAA),33.4,37.9,100.0,4.6,38.2,1
+STU1191,Microcontrollers (MC),40.0,36.6,91.2,3.4,35.7,1
+STU1191,Software Project Management,30.0,29.2,75.9,2.9,29.6,1
+STU1192,Computer Networks,12.4,18.9,56.4,2.2,19.6,1
+STU1192,Machine Learning,16.4,18.0,50.0,2.4,18.1,1
+STU1192,Design and Analysis of Algorithms (DAA),13.0,19.8,50.0,2.6,18.6,1
+STU1192,Microcontrollers (MC),24.4,24.6,55.7,1.6,24.7,1
+STU1192,Software Project Management,9.7,18.2,50.0,1.9,16.8,1
+STU1193,Computer Networks,12.1,14.8,50.0,1.5,16.3,1
+STU1193,Machine Learning,6.7,13.6,50.0,2.3,12.5,0
+STU1193,Design and Analysis of Algorithms (DAA),10.0,18.2,50.0,1.6,10.3,0
+STU1193,Microcontrollers (MC),8.8,15.5,50.0,2.3,18.1,1
+STU1193,Software Project Management,4.0,13.8,50.0,1.1,12.7,0
+STU1194,Computer Networks,38.5,40.0,90.0,4.6,39.3,1
+STU1194,Machine Learning,29.3,27.8,84.9,1.8,28.7,1
+STU1194,Design and Analysis of Algorithms (DAA),27.5,30.0,73.6,3.4,31.1,1
+STU1194,Microcontrollers (MC),33.3,29.3,76.3,4.1,32.6,1
+STU1194,Artificial Intelligence,28.3,27.1,65.1,2.8,26.5,1
+STU1195,Computer Networks,30.7,28.0,69.3,2.9,27.3,1
+STU1195,Machine Learning,37.7,28.2,85.8,2.0,28.4,1
+STU1195,Design and Analysis of Algorithms (DAA),17.1,16.4,58.5,1.9,18.2,1
+STU1195,Microcontrollers (MC),30.3,30.1,78.5,3.7,27.7,1
+STU1195,Artificial Intelligence,17.4,17.6,62.5,3.0,18.4,1
+STU1196,Computer Networks,16.6,16.7,50.0,2.4,14.2,0
+STU1196,Machine Learning,26.8,22.3,77.8,2.6,26.2,1
+STU1196,Design and Analysis of Algorithms (DAA),21.2,21.6,54.8,2.3,19.1,1
+STU1196,Microcontrollers (MC),29.9,22.7,60.5,2.1,23.1,1
+STU1196,Artificial Intelligence,17.2,24.6,71.3,2.9,24.4,1
+STU1197,Computer Networks,29.7,30.1,74.6,3.3,29.6,1
+STU1197,Machine Learning,32.1,36.4,68.4,3.9,35.4,1
+STU1197,Design and Analysis of Algorithms (DAA),34.4,35.4,64.0,3.9,34.4,1
+STU1197,Microcontrollers (MC),25.8,19.2,59.3,2.4,20.7,1
+STU1197,Software Project Management,22.3,20.6,71.5,2.5,22.5,1
+STU1198,Computer Networks,26.4,29.4,75.8,2.7,30.3,1
+STU1198,Machine Learning,26.2,25.2,70.8,2.7,28.5,1
+STU1198,Design and Analysis of Algorithms (DAA),13.3,20.0,59.2,3.5,20.3,1
+STU1198,Microcontrollers (MC),29.5,30.6,82.3,3.6,30.8,1
+STU1198,Software Project Management,25.4,25.8,82.2,2.6,28.8,1
+STU1199,Computer Networks,17.0,17.1,51.1,2.4,18.2,1
+STU1199,Machine Learning,10.6,10.9,50.0,1.4,16.2,1
+STU1199,Design and Analysis of Algorithms (DAA),14.7,15.4,57.9,2.3,16.3,1
+STU1199,Microcontrollers (MC),17.8,17.1,59.2,2.2,16.6,1
+STU1199,Software Project Management,14.4,14.7,54.1,1.8,15.6,0
+STU1200,Computer Networks,37.2,28.1,76.8,3.6,32.7,1
+STU1200,Machine Learning,32.1,34.8,89.6,4.7,36.2,1
+STU1200,Design and Analysis of Algorithms (DAA),24.6,23.2,50.0,1.9,23.2,1
+STU1200,Microcontrollers (MC),30.6,31.7,77.1,4.1,32.2,1
+STU1200,Software Project Management,25.6,25.8,74.1,3.9,29.7,1
+STU1201,Computer Networks,29.6,24.8,74.2,2.8,23.6,1
+STU1201,Machine Learning,32.6,30.8,97.8,2.4,32.9,1
+STU1201,Design and Analysis of Algorithms (DAA),31.6,26.2,72.2,2.9,22.9,1
+STU1201,Microcontrollers (MC),28.1,28.6,74.1,2.9,26.7,1
+STU1201,Software Project Management,26.7,24.6,57.1,2.7,22.7,1
+STU1202,Computer Networks,20.2,12.8,50.0,1.2,17.2,1
+STU1202,Machine Learning,12.0,12.2,50.0,2.1,16.3,1
+STU1202,Design and Analysis of Algorithms (DAA),17.9,17.3,50.0,2.5,24.0,1
+STU1202,Microcontrollers (MC),23.5,19.5,55.0,2.1,19.4,1
+STU1202,Software Project Management,22.6,24.0,60.8,2.2,24.7,1
+STU1203,Computer Networks,38.0,38.3,84.5,4.0,39.7,1
+STU1203,Machine Learning,32.7,32.4,100.0,4.3,34.7,1
+STU1203,Design and Analysis of Algorithms (DAA),28.9,26.8,95.1,1.9,25.9,1
+STU1203,Microcontrollers (MC),27.4,30.1,74.2,2.8,30.3,1
+STU1203,Artificial Intelligence,38.6,38.6,88.5,4.4,37.6,1
+STU1204,Computer Networks,16.8,20.4,50.0,2.8,19.6,1
+STU1204,Machine Learning,14.2,12.7,50.0,1.4,12.6,0
+STU1204,Design and Analysis of Algorithms (DAA),15.0,17.5,50.0,1.3,13.9,0
+STU1204,Microcontrollers (MC),13.3,19.8,60.5,3.0,19.1,1
+STU1204,Software Project Management,12.8,13.5,50.0,1.1,11.6,0
+STU1205,Computer Networks,34.0,29.7,68.3,2.8,27.2,1
+STU1205,Machine Learning,31.8,29.2,72.0,2.9,29.0,1
+STU1205,Design and Analysis of Algorithms (DAA),32.5,24.7,70.9,2.7,27.1,1
+STU1205,Microcontrollers (MC),21.0,25.3,73.9,2.8,20.7,1
+STU1205,Artificial Intelligence,28.5,27.0,87.5,3.5,31.9,1
+STU1206,Computer Networks,29.6,27.8,79.8,3.4,33.7,1
+STU1206,Machine Learning,36.8,31.2,74.5,3.1,31.6,1
+STU1206,Design and Analysis of Algorithms (DAA),40.0,34.9,73.2,3.5,35.8,1
+STU1206,Microcontrollers (MC),31.6,35.2,86.8,4.3,35.0,1
+STU1206,Software Project Management,25.6,26.8,74.0,2.8,24.3,1
+STU1207,Computer Networks,11.6,15.7,50.0,1.9,15.3,0
+STU1207,Machine Learning,24.8,22.8,52.5,2.5,24.7,1
+STU1207,Design and Analysis of Algorithms (DAA),10.8,17.4,50.0,2.8,19.2,1
+STU1207,Microcontrollers (MC),20.9,23.5,50.0,3.2,25.6,1
+STU1207,Artificial Intelligence,31.8,28.4,72.4,2.9,27.6,1
+STU1208,Computer Networks,12.2,14.1,50.0,0.7,12.7,0
+STU1208,Machine Learning,19.3,21.3,50.0,3.1,21.8,1
+STU1208,Design and Analysis of Algorithms (DAA),17.8,22.4,50.0,2.7,22.3,1
+STU1208,Microcontrollers (MC),20.4,24.9,50.0,2.4,24.2,1
+STU1208,Artificial Intelligence,25.2,25.1,70.1,2.5,23.6,1
+STU1209,Computer Networks,24.9,26.9,80.8,2.3,28.1,1
+STU1209,Machine Learning,26.8,30.8,71.1,4.2,33.0,1
+STU1209,Design and Analysis of Algorithms (DAA),20.5,27.0,53.3,3.0,26.9,1
+STU1209,Microcontrollers (MC),22.4,24.8,69.3,2.3,25.2,1
+STU1209,Artificial Intelligence,26.5,28.0,92.1,2.5,27.5,1
+STU1210,Computer Networks,20.3,20.1,52.7,2.1,16.6,1
+STU1210,Machine Learning,19.5,15.6,50.0,1.6,20.1,1
+STU1210,Design and Analysis of Algorithms (DAA),20.5,21.9,63.1,2.1,23.3,1
+STU1210,Microcontrollers (MC),11.8,15.3,50.0,2.2,15.3,0
+STU1210,Artificial Intelligence,21.8,22.7,58.9,3.4,24.4,1
+STU1211,Computer Networks,31.7,34.0,88.2,3.8,35.7,1
+STU1211,Machine Learning,35.2,31.9,86.0,3.2,34.3,1
+STU1211,Design and Analysis of Algorithms (DAA),33.1,33.7,89.1,3.0,34.2,1
+STU1211,Microcontrollers (MC),38.3,39.7,100.0,4.4,40.0,1
+STU1211,Artificial Intelligence,38.7,36.7,90.0,4.5,38.2,1
+STU1212,Computer Networks,30.4,31.8,70.6,3.1,31.5,1
+STU1212,Machine Learning,30.2,30.3,76.3,3.3,30.0,1
+STU1212,Design and Analysis of Algorithms (DAA),34.4,26.5,73.4,3.5,34.4,1
+STU1212,Microcontrollers (MC),28.7,26.8,57.8,3.3,29.6,1
+STU1212,Artificial Intelligence,31.3,36.1,83.4,3.7,31.7,1
+STU1213,Computer Networks,22.5,28.3,63.4,3.4,27.0,1
+STU1213,Machine Learning,29.4,28.0,66.9,4.4,34.3,1
+STU1213,Design and Analysis of Algorithms (DAA),24.4,25.5,59.7,2.9,23.3,1
+STU1213,Microcontrollers (MC),20.7,24.1,76.7,3.6,23.9,1
+STU1213,Software Project Management,22.8,16.9,54.5,2.3,19.9,1
+STU1214,Computer Networks,7.6,12.2,50.0,1.3,15.1,0
+STU1214,Machine Learning,10.0,15.2,50.0,1.2,16.2,1
+STU1214,Design and Analysis of Algorithms (DAA),15.5,18.0,50.0,2.2,17.5,1
+STU1214,Microcontrollers (MC),11.6,20.6,50.0,2.1,15.9,0
+STU1214,Artificial Intelligence,10.0,16.6,50.0,1.9,17.2,1
+STU1215,Computer Networks,22.6,28.5,91.2,3.0,27.2,1
+STU1215,Machine Learning,24.8,25.2,90.3,2.2,28.9,1
+STU1215,Design and Analysis of Algorithms (DAA),32.6,28.3,88.0,2.7,31.6,1
+STU1215,Microcontrollers (MC),26.1,24.0,63.3,2.6,25.0,1
+STU1215,Software Project Management,24.4,22.4,79.2,2.8,24.7,1
+STU1216,Computer Networks,35.4,28.9,70.6,3.0,29.5,1
+STU1216,Machine Learning,19.8,28.9,84.3,3.8,31.5,1
+STU1216,Design and Analysis of Algorithms (DAA),27.2,27.4,69.7,3.1,24.0,1
+STU1216,Microcontrollers (MC),35.0,32.6,89.4,2.8,29.3,1
+STU1216,Software Project Management,36.3,35.1,88.0,3.5,36.8,1
+STU1217,Computer Networks,34.6,31.1,72.7,2.1,33.1,1
+STU1217,Machine Learning,29.7,25.4,66.3,2.6,26.4,1
+STU1217,Design and Analysis of Algorithms (DAA),28.0,24.9,67.5,3.8,26.6,1
+STU1217,Microcontrollers (MC),30.9,30.2,70.4,3.9,36.4,1
+STU1217,Software Project Management,32.1,26.7,54.4,2.7,27.9,1
+STU1218,Computer Networks,25.8,24.7,66.4,2.0,22.1,1
+STU1218,Machine Learning,27.4,29.2,66.4,3.8,31.5,1
+STU1218,Design and Analysis of Algorithms (DAA),25.2,25.5,59.5,3.1,25.5,1
+STU1218,Microcontrollers (MC),26.3,23.7,73.7,2.4,23.5,1
+STU1218,Software Project Management,30.8,33.9,77.8,3.5,33.7,1
+STU1219,Computer Networks,31.1,27.4,78.8,3.5,32.5,1
+STU1219,Machine Learning,33.3,27.2,76.4,3.2,31.8,1
+STU1219,Design and Analysis of Algorithms (DAA),28.2,28.0,95.4,3.6,30.0,1
+STU1219,Microcontrollers (MC),28.6,29.6,74.8,3.5,29.2,1
+STU1219,Artificial Intelligence,36.4,36.1,83.1,4.4,36.5,1
+STU1220,Computer Networks,11.5,15.3,50.0,2.6,17.6,1
+STU1220,Machine Learning,4.0,6.2,50.0,0.8,9.4,0
+STU1220,Design and Analysis of Algorithms (DAA),8.2,8.4,50.0,1.1,8.2,0
+STU1220,Microcontrollers (MC),15.2,15.7,50.0,2.0,18.1,1
+STU1220,Artificial Intelligence,18.2,15.9,50.0,1.2,19.9,1
+STU1221,Computer Networks,14.4,16.1,50.0,2.7,17.5,1
+STU1221,Machine Learning,17.9,22.7,50.0,1.6,20.2,1
+STU1221,Design and Analysis of Algorithms (DAA),13.3,21.1,50.0,2.3,22.4,1
+STU1221,Microcontrollers (MC),19.9,18.2,50.0,2.4,20.0,1
+STU1221,Artificial Intelligence,11.2,10.5,50.0,1.6,14.6,0
+STU1222,Computer Networks,23.8,25.2,65.9,3.4,27.6,1
+STU1222,Machine Learning,21.5,24.0,75.2,4.1,27.6,1
+STU1222,Design and Analysis of Algorithms (DAA),20.4,17.7,50.0,1.4,17.2,1
+STU1222,Microcontrollers (MC),30.3,36.4,87.8,4.5,36.6,1
+STU1222,Artificial Intelligence,29.0,26.9,65.5,1.7,22.8,1
+STU1223,Computer Networks,23.2,17.7,50.0,1.7,20.2,1
+STU1223,Machine Learning,19.2,18.4,50.0,2.2,17.0,1
+STU1223,Design and Analysis of Algorithms (DAA),18.0,19.6,50.0,3.3,25.3,1
+STU1223,Microcontrollers (MC),23.2,20.9,50.4,2.1,23.2,1
+STU1223,Software Project Management,16.4,13.4,53.6,0.9,13.8,0
+STU1224,Computer Networks,21.5,18.0,54.1,1.9,19.4,1
+STU1224,Machine Learning,18.1,20.4,54.6,1.7,20.1,1
+STU1224,Design and Analysis of Algorithms (DAA),14.1,18.3,50.0,2.6,17.2,1
+STU1224,Microcontrollers (MC),15.0,16.9,50.0,1.9,9.7,0
+STU1224,Software Project Management,11.1,17.6,50.0,3.0,21.2,1
+STU1225,Computer Networks,24.2,22.4,56.4,2.5,23.8,1
+STU1225,Machine Learning,12.0,21.8,50.0,3.1,16.9,1
+STU1225,Design and Analysis of Algorithms (DAA),20.4,20.8,50.0,3.7,26.7,1
+STU1225,Microcontrollers (MC),14.0,14.4,50.0,3.4,17.5,1
+STU1225,Artificial Intelligence,16.8,13.7,50.0,2.0,15.2,0
+STU1226,Computer Networks,31.3,29.8,67.4,3.0,31.1,1
+STU1226,Machine Learning,35.9,26.2,72.8,3.1,28.4,1
+STU1226,Design and Analysis of Algorithms (DAA),27.7,25.7,68.3,2.7,23.5,1
+STU1226,Microcontrollers (MC),22.6,25.0,65.2,2.4,25.9,1
+STU1226,Artificial Intelligence,36.4,31.9,85.1,3.3,32.5,1
+STU1227,Computer Networks,21.9,18.0,58.7,1.3,21.9,1
+STU1227,Machine Learning,22.8,25.2,50.0,2.7,21.7,1
+STU1227,Design and Analysis of Algorithms (DAA),21.0,23.5,50.0,2.5,21.2,1
+STU1227,Microcontrollers (MC),15.4,17.3,50.0,2.0,16.4,1
+STU1227,Artificial Intelligence,23.1,19.0,60.1,1.8,22.4,1
+STU1228,Computer Networks,28.5,33.6,85.2,3.3,29.5,1
+STU1228,Machine Learning,25.8,28.6,53.2,3.1,27.7,1
+STU1228,Design and Analysis of Algorithms (DAA),21.1,31.3,72.2,3.2,29.5,1
+STU1228,Microcontrollers (MC),29.1,28.8,81.3,3.7,31.9,1
+STU1228,Artificial Intelligence,31.4,33.4,71.1,4.2,36.2,1
+STU1229,Computer Networks,23.7,23.2,55.0,2.8,23.1,1
+STU1229,Machine Learning,26.9,26.5,55.9,3.3,27.0,1
+STU1229,Design and Analysis of Algorithms (DAA),13.0,20.1,58.8,2.7,20.3,1
+STU1229,Microcontrollers (MC),26.2,25.5,66.1,2.3,27.4,1
+STU1229,Artificial Intelligence,21.4,23.9,68.7,3.0,26.6,1
+STU1230,Computer Networks,17.8,21.7,57.1,2.5,21.4,1
+STU1230,Machine Learning,22.9,20.2,76.4,2.7,23.7,1
+STU1230,Design and Analysis of Algorithms (DAA),22.5,19.9,57.0,3.8,26.7,1
+STU1230,Microcontrollers (MC),19.7,20.2,58.8,2.8,22.7,1
+STU1230,Artificial Intelligence,31.3,30.5,63.8,3.7,29.8,1
+STU1231,Computer Networks,19.8,22.1,50.0,2.2,24.8,1
+STU1231,Machine Learning,22.7,21.4,65.4,3.1,23.7,1
+STU1231,Design and Analysis of Algorithms (DAA),19.9,24.1,69.3,3.4,24.2,1
+STU1231,Microcontrollers (MC),25.2,29.3,62.8,3.7,30.2,1
+STU1231,Software Project Management,29.1,27.6,56.2,3.0,30.1,1
+STU1232,Computer Networks,9.5,4.9,50.0,1.2,10.4,0
+STU1232,Machine Learning,19.7,18.4,61.1,1.8,17.6,1
+STU1232,Design and Analysis of Algorithms (DAA),21.6,23.6,58.3,1.7,25.8,1
+STU1232,Microcontrollers (MC),22.2,25.0,55.7,4.5,27.6,1
+STU1232,Software Project Management,13.3,17.2,50.0,1.2,15.8,0
+STU1233,Computer Networks,26.1,28.3,63.2,2.0,25.6,1
+STU1233,Machine Learning,21.0,24.3,54.1,2.9,23.7,1
+STU1233,Design and Analysis of Algorithms (DAA),28.5,26.7,60.0,2.3,24.0,1
+STU1233,Microcontrollers (MC),21.2,21.4,59.2,2.6,23.3,1
+STU1233,Artificial Intelligence,28.2,25.4,63.2,3.1,26.9,1
+STU1234,Computer Networks,10.9,14.6,50.0,1.6,16.2,1
+STU1234,Machine Learning,5.4,11.5,50.0,2.2,11.8,0
+STU1234,Design and Analysis of Algorithms (DAA),17.1,18.1,50.0,1.2,17.1,1
+STU1234,Microcontrollers (MC),7.5,9.9,50.0,0.5,13.1,0
+STU1234,Artificial Intelligence,4.7,9.0,50.0,1.4,9.5,0
+STU1235,Computer Networks,22.7,21.3,54.2,3.9,25.4,1
+STU1235,Machine Learning,33.4,28.9,64.5,2.8,29.2,1
+STU1235,Design and Analysis of Algorithms (DAA),10.9,12.7,62.3,2.3,14.6,0
+STU1235,Microcontrollers (MC),23.2,18.6,50.0,3.9,22.4,1
+STU1235,Software Project Management,15.2,22.1,50.4,3.1,24.3,1
+STU1236,Computer Networks,34.8,34.8,84.3,4.0,36.6,1
+STU1236,Machine Learning,40.0,37.8,93.1,4.9,40.0,1
+STU1236,Design and Analysis of Algorithms (DAA),40.0,38.5,84.9,4.9,38.7,1
+STU1236,Microcontrollers (MC),37.3,37.6,93.9,4.5,40.0,1
+STU1236,Software Project Management,36.3,34.4,95.5,3.5,35.5,1
+STU1237,Computer Networks,17.1,19.8,50.0,2.4,14.6,0
+STU1237,Machine Learning,7.3,11.3,50.0,1.4,14.1,0
+STU1237,Design and Analysis of Algorithms (DAA),12.6,13.7,50.0,1.6,18.5,1
+STU1237,Microcontrollers (MC),4.0,13.2,50.0,2.3,12.8,0
+STU1237,Software Project Management,11.7,13.0,50.0,1.1,12.6,0
+STU1238,Computer Networks,11.7,15.1,55.3,2.4,14.8,0
+STU1238,Machine Learning,14.9,18.7,50.0,2.6,19.2,1
+STU1238,Design and Analysis of Algorithms (DAA),18.4,21.6,50.0,2.8,24.1,1
+STU1238,Microcontrollers (MC),19.0,24.9,50.0,2.8,23.9,1
+STU1238,Software Project Management,11.5,18.6,55.6,2.4,17.4,1
+STU1239,Computer Networks,25.3,19.4,73.5,2.4,23.2,1
+STU1239,Machine Learning,27.4,29.5,90.6,3.5,31.8,1
+STU1239,Design and Analysis of Algorithms (DAA),29.1,28.7,82.0,3.6,29.3,1
+STU1239,Microcontrollers (MC),27.1,28.1,60.8,4.1,28.3,1
+STU1239,Artificial Intelligence,34.4,32.3,88.3,3.8,34.2,1
+STU1240,Computer Networks,15.1,13.1,50.0,1.6,15.7,0
+STU1240,Machine Learning,15.6,21.3,55.6,3.2,21.6,1
+STU1240,Design and Analysis of Algorithms (DAA),16.3,20.3,61.9,3.0,22.0,1
+STU1240,Microcontrollers (MC),27.6,21.3,59.9,2.7,23.8,1
+STU1240,Artificial Intelligence,19.7,16.3,55.7,1.4,16.2,1
+STU1241,Computer Networks,14.8,14.9,53.7,1.9,13.4,0
+STU1241,Machine Learning,20.6,25.3,61.9,4.7,25.5,1
+STU1241,Design and Analysis of Algorithms (DAA),13.4,22.9,66.1,3.0,23.5,1
+STU1241,Microcontrollers (MC),22.0,19.4,52.4,2.2,23.3,1
+STU1241,Artificial Intelligence,13.2,14.0,50.0,1.5,15.4,0
+STU1242,Computer Networks,18.2,22.5,50.0,3.1,23.7,1
+STU1242,Machine Learning,17.8,24.6,59.1,2.2,23.6,1
+STU1242,Design and Analysis of Algorithms (DAA),26.8,24.0,55.3,2.5,29.0,1
+STU1242,Microcontrollers (MC),16.0,15.6,50.1,1.9,15.4,0
+STU1242,Software Project Management,25.3,26.1,82.3,3.3,29.5,1
+STU1243,Computer Networks,28.5,28.6,63.2,2.1,26.6,1
+STU1243,Machine Learning,21.0,22.9,56.4,3.6,26.4,1
+STU1243,Design and Analysis of Algorithms (DAA),33.9,26.5,70.1,2.7,28.3,1
+STU1243,Microcontrollers (MC),18.7,22.5,67.7,2.3,19.5,1
+STU1243,Artificial Intelligence,24.1,22.1,69.8,2.4,22.9,1
+STU1244,Computer Networks,11.5,12.8,50.0,1.0,16.0,0
+STU1244,Machine Learning,21.3,19.7,57.1,2.3,24.5,1
+STU1244,Design and Analysis of Algorithms (DAA),15.5,16.2,50.0,0.8,13.3,0
+STU1244,Microcontrollers (MC),18.8,15.0,50.0,1.1,15.4,0
+STU1244,Software Project Management,16.5,18.5,50.0,3.4,22.9,1
+STU1245,Computer Networks,17.4,19.9,50.0,1.8,20.5,1
+STU1245,Machine Learning,12.9,17.3,50.0,2.5,18.1,1
+STU1245,Design and Analysis of Algorithms (DAA),22.1,19.4,53.8,3.3,20.7,1
+STU1245,Microcontrollers (MC),15.4,17.2,50.1,2.7,16.9,1
+STU1245,Artificial Intelligence,28.8,22.7,50.0,2.4,21.4,1
+STU1246,Computer Networks,8.9,13.4,50.0,1.0,13.7,0
+STU1246,Machine Learning,13.6,16.2,50.0,2.6,19.2,1
+STU1246,Design and Analysis of Algorithms (DAA),13.5,14.3,50.0,1.3,15.3,0
+STU1246,Microcontrollers (MC),9.8,13.3,54.2,1.4,13.9,0
+STU1246,Artificial Intelligence,14.6,14.8,50.0,0.7,13.5,0
+STU1247,Computer Networks,14.4,17.2,50.0,1.8,16.6,1
+STU1247,Machine Learning,19.9,21.4,50.9,2.8,21.7,1
+STU1247,Design and Analysis of Algorithms (DAA),19.2,18.5,60.4,1.8,19.4,1
+STU1247,Microcontrollers (MC),16.4,20.6,50.0,2.2,17.7,1
+STU1247,Artificial Intelligence,22.1,19.1,50.0,3.4,20.6,1
+STU1248,Computer Networks,23.3,26.9,67.7,3.3,26.8,1
+STU1248,Machine Learning,25.2,30.6,77.1,3.4,25.0,1
+STU1248,Design and Analysis of Algorithms (DAA),31.2,28.1,66.5,3.1,31.0,1
+STU1248,Microcontrollers (MC),23.1,22.1,61.1,2.3,23.0,1
+STU1248,Software Project Management,27.2,24.0,58.4,2.9,23.8,1
+STU1249,Computer Networks,24.2,26.8,61.1,3.3,25.6,1
+STU1249,Machine Learning,24.4,29.6,67.6,3.6,27.1,1
+STU1249,Design and Analysis of Algorithms (DAA),24.2,24.9,65.9,3.8,24.4,1
+STU1249,Microcontrollers (MC),26.4,26.0,75.0,3.4,27.3,1
+STU1249,Software Project Management,32.9,29.7,69.9,3.1,31.1,1
+STU1250,Computer Networks,27.9,23.8,67.6,2.2,24.3,1
+STU1250,Machine Learning,29.8,26.3,69.6,1.3,25.8,1
+STU1250,Design and Analysis of Algorithms (DAA),24.7,28.8,76.3,2.9,32.3,1
+STU1250,Microcontrollers (MC),25.3,21.3,65.4,2.1,25.4,1
+STU1250,Software Project Management,23.0,28.5,68.3,4.0,27.4,1
+STU1251,Computer Networks,22.5,24.1,55.8,2.3,24.4,1
+STU1251,Machine Learning,19.4,12.0,50.0,1.3,14.7,0
+STU1251,Design and Analysis of Algorithms (DAA),27.1,16.1,55.7,2.1,21.3,1
+STU1251,Microcontrollers (MC),27.1,20.9,58.4,2.3,24.7,1
+STU1251,Software Project Management,17.1,24.5,62.1,2.6,25.1,1
+STU1252,Computer Networks,38.6,36.6,100.0,4.0,35.4,1
+STU1252,Machine Learning,39.7,35.2,81.5,3.5,38.3,1
+STU1252,Design and Analysis of Algorithms (DAA),29.8,29.7,80.8,2.8,29.8,1
+STU1252,Microcontrollers (MC),40.0,36.5,94.1,3.7,39.9,1
+STU1252,Software Project Management,33.7,28.4,89.2,4.1,32.8,1
+STU1253,Computer Networks,31.6,24.4,81.4,1.7,26.2,1
+STU1253,Machine Learning,25.9,27.1,78.1,2.5,24.8,1
+STU1253,Design and Analysis of Algorithms (DAA),29.0,26.1,77.2,2.4,29.6,1
+STU1253,Microcontrollers (MC),29.6,30.0,64.0,2.6,29.8,1
+STU1253,Software Project Management,25.7,24.8,65.1,2.1,22.8,1
+STU1254,Computer Networks,8.5,17.6,50.0,2.3,17.3,1
+STU1254,Machine Learning,11.1,19.9,70.1,2.1,18.5,1
+STU1254,Design and Analysis of Algorithms (DAA),13.8,21.9,50.0,3.5,19.6,1
+STU1254,Microcontrollers (MC),10.7,19.3,50.0,2.2,14.1,0
+STU1254,Artificial Intelligence,19.8,18.5,50.0,1.8,18.5,1
+STU1255,Computer Networks,8.0,7.5,50.0,1.0,10.2,0
+STU1255,Machine Learning,22.8,20.3,50.0,1.5,20.7,1
+STU1255,Design and Analysis of Algorithms (DAA),10.1,13.5,50.0,2.0,12.5,0
+STU1255,Microcontrollers (MC),5.0,14.6,50.0,2.3,12.6,0
+STU1255,Software Project Management,4.0,8.4,50.0,2.4,12.3,0
+STU1256,Computer Networks,11.2,13.6,53.0,2.5,16.1,1
+STU1256,Machine Learning,13.2,13.7,50.0,2.3,18.7,1
+STU1256,Design and Analysis of Algorithms (DAA),24.0,26.0,63.0,3.1,25.8,1
+STU1256,Microcontrollers (MC),11.3,18.9,55.0,3.6,17.7,1
+STU1256,Artificial Intelligence,24.4,25.3,54.1,1.8,24.7,1
+STU1257,Computer Networks,25.1,27.5,71.3,3.4,31.3,1
+STU1257,Machine Learning,17.4,16.5,70.7,1.5,17.7,1
+STU1257,Design and Analysis of Algorithms (DAA),22.9,19.3,50.0,1.8,19.1,1
+STU1257,Microcontrollers (MC),23.3,22.9,51.1,3.0,24.7,1
+STU1257,Artificial Intelligence,23.1,19.3,74.9,3.0,23.8,1
+STU1258,Computer Networks,27.0,32.6,89.7,3.5,30.0,1
+STU1258,Machine Learning,37.4,39.7,95.6,4.0,37.4,1
+STU1258,Design and Analysis of Algorithms (DAA),35.5,34.2,85.1,2.6,36.0,1
+STU1258,Microcontrollers (MC),38.0,40.0,79.1,4.9,38.8,1
+STU1258,Software Project Management,34.3,29.8,72.4,4.0,28.0,1
+STU1259,Computer Networks,21.2,17.4,65.3,1.7,22.5,1
+STU1259,Machine Learning,20.9,22.3,61.4,2.5,21.2,1
+STU1259,Design and Analysis of Algorithms (DAA),24.1,21.7,58.7,2.4,26.2,1
+STU1259,Microcontrollers (MC),22.3,23.8,55.1,3.2,23.0,1
+STU1259,Artificial Intelligence,18.1,16.9,50.0,1.3,15.9,0
+STU1260,Computer Networks,34.7,33.8,92.4,3.9,35.4,1
+STU1260,Machine Learning,40.0,37.9,91.8,4.0,37.3,1
+STU1260,Design and Analysis of Algorithms (DAA),38.2,34.9,81.4,3.3,32.5,1
+STU1260,Microcontrollers (MC),36.7,34.5,78.9,3.3,34.3,1
+STU1260,Artificial Intelligence,34.8,32.0,71.9,4.4,35.5,1
+STU1261,Computer Networks,27.3,26.2,68.0,3.0,25.9,1
+STU1261,Machine Learning,24.3,28.5,68.5,2.4,26.4,1
+STU1261,Design and Analysis of Algorithms (DAA),29.1,25.9,52.2,1.9,22.4,1
+STU1261,Microcontrollers (MC),24.1,31.6,78.2,3.0,25.6,1
+STU1261,Artificial Intelligence,28.3,30.0,84.4,4.4,30.0,1
+STU1262,Computer Networks,26.5,27.1,65.6,2.6,26.2,1
+STU1262,Machine Learning,13.0,22.1,50.0,2.9,19.7,1
+STU1262,Design and Analysis of Algorithms (DAA),21.2,22.3,67.2,2.3,21.2,1
+STU1262,Microcontrollers (MC),20.5,19.9,50.0,3.1,23.5,1
+STU1262,Software Project Management,26.4,25.6,50.0,2.9,21.7,1
+STU1263,Computer Networks,26.7,23.5,59.1,1.9,23.5,1
+STU1263,Machine Learning,28.8,27.4,69.5,3.3,28.4,1
+STU1263,Design and Analysis of Algorithms (DAA),31.0,30.3,66.9,3.5,28.9,1
+STU1263,Microcontrollers (MC),28.6,25.2,73.7,2.5,28.1,1
+STU1263,Software Project Management,18.6,20.0,72.4,3.1,22.4,1
+STU1264,Computer Networks,29.1,30.0,73.9,3.6,30.1,1
+STU1264,Machine Learning,29.9,28.6,62.0,3.0,31.6,1
+STU1264,Design and Analysis of Algorithms (DAA),30.9,30.3,79.0,2.6,28.1,1
+STU1264,Microcontrollers (MC),26.8,27.1,71.5,3.5,31.2,1
+STU1264,Artificial Intelligence,33.1,28.1,75.7,2.9,28.6,1
+STU1265,Computer Networks,35.0,24.0,61.5,2.3,28.5,1
+STU1265,Machine Learning,32.2,27.5,80.9,2.9,31.4,1
+STU1265,Design and Analysis of Algorithms (DAA),35.7,34.6,85.0,3.6,37.1,1
+STU1265,Microcontrollers (MC),37.2,33.5,85.8,3.4,34.8,1
+STU1265,Software Project Management,30.2,36.2,90.6,3.7,37.9,1
+STU1266,Computer Networks,27.9,23.6,75.7,2.8,26.1,1
+STU1266,Machine Learning,25.0,22.5,67.7,3.8,33.2,1
+STU1266,Design and Analysis of Algorithms (DAA),24.0,20.3,69.2,1.8,16.4,1
+STU1266,Microcontrollers (MC),25.2,23.8,63.8,2.7,25.0,1
+STU1266,Software Project Management,22.0,25.1,67.0,2.9,24.5,1
+STU1267,Computer Networks,24.3,23.7,55.2,1.9,23.7,1
+STU1267,Machine Learning,22.0,19.4,59.5,3.0,22.7,1
+STU1267,Design and Analysis of Algorithms (DAA),26.0,23.6,55.2,2.7,22.6,1
+STU1267,Microcontrollers (MC),19.5,18.4,51.6,3.0,22.4,1
+STU1267,Software Project Management,26.3,24.8,59.6,3.2,24.3,1
+STU1268,Computer Networks,28.5,27.2,59.6,2.1,26.4,1
+STU1268,Machine Learning,15.5,16.8,50.0,2.3,20.0,1
+STU1268,Design and Analysis of Algorithms (DAA),22.1,24.6,73.6,2.2,25.2,1
+STU1268,Microcontrollers (MC),28.1,32.5,71.4,4.1,31.4,1
+STU1268,Software Project Management,24.3,26.0,65.0,3.6,29.7,1
+STU1269,Computer Networks,24.8,30.0,69.8,3.2,28.3,1
+STU1269,Machine Learning,9.2,11.6,50.6,2.2,11.4,0
+STU1269,Design and Analysis of Algorithms (DAA),16.7,15.1,51.5,2.3,18.2,1
+STU1269,Microcontrollers (MC),23.3,25.0,61.8,3.8,26.2,1
+STU1269,Artificial Intelligence,14.8,18.5,65.5,2.7,20.0,1
+STU1270,Computer Networks,33.7,34.5,95.0,3.2,33.7,1
+STU1270,Machine Learning,30.3,28.2,93.1,3.3,34.0,1
+STU1270,Design and Analysis of Algorithms (DAA),35.0,34.1,87.5,3.0,33.4,1
+STU1270,Microcontrollers (MC),33.8,30.1,70.9,2.9,28.3,1
+STU1270,Artificial Intelligence,30.2,28.7,78.4,2.1,28.1,1
+STU1271,Computer Networks,25.9,26.8,70.1,3.2,27.3,1
+STU1271,Machine Learning,16.5,19.1,67.8,3.3,23.7,1
+STU1271,Design and Analysis of Algorithms (DAA),20.7,20.5,50.0,2.9,24.8,1
+STU1271,Microcontrollers (MC),17.8,26.0,68.3,3.5,23.3,1
+STU1271,Software Project Management,22.6,20.0,50.0,1.2,17.9,1
+STU1272,Computer Networks,26.9,27.1,74.6,3.9,26.9,1
+STU1272,Machine Learning,27.9,28.7,81.9,3.5,28.5,1
+STU1272,Design and Analysis of Algorithms (DAA),24.5,26.4,71.8,4.2,32.0,1
+STU1272,Microcontrollers (MC),26.8,24.6,63.6,3.3,24.4,1
+STU1272,Software Project Management,40.0,35.8,91.3,2.8,34.2,1
+STU1273,Computer Networks,17.4,18.9,50.0,2.0,21.6,1
+STU1273,Machine Learning,15.3,18.8,53.5,2.2,21.8,1
+STU1273,Design and Analysis of Algorithms (DAA),17.1,18.5,50.0,2.0,20.5,1
+STU1273,Microcontrollers (MC),23.5,23.6,54.6,3.0,25.6,1
+STU1273,Software Project Management,13.3,16.8,50.0,1.3,17.9,1
+STU1274,Computer Networks,25.5,27.1,83.0,3.3,29.4,1
+STU1274,Machine Learning,22.6,18.5,63.5,2.1,18.1,1
+STU1274,Design and Analysis of Algorithms (DAA),26.0,32.7,69.3,2.9,31.0,1
+STU1274,Microcontrollers (MC),28.8,27.0,70.3,3.6,32.8,1
+STU1274,Artificial Intelligence,24.2,25.3,79.7,2.7,25.1,1
+STU1275,Computer Networks,26.9,26.2,71.3,2.5,25.0,1
+STU1275,Machine Learning,19.0,15.2,50.0,0.9,16.2,1
+STU1275,Design and Analysis of Algorithms (DAA),22.7,24.5,65.2,3.1,25.5,1
+STU1275,Microcontrollers (MC),30.8,29.1,55.2,2.7,29.0,1
+STU1275,Artificial Intelligence,22.7,27.9,75.4,2.8,27.9,1
+STU1276,Computer Networks,31.3,29.2,56.0,2.8,29.3,1
+STU1276,Machine Learning,19.3,16.6,50.0,2.0,16.2,1
+STU1276,Design and Analysis of Algorithms (DAA),16.9,18.0,56.2,1.9,16.4,1
+STU1276,Microcontrollers (MC),20.2,17.0,50.0,1.9,22.1,1
+STU1276,Software Project Management,31.7,28.4,73.9,2.9,29.4,1
+STU1277,Computer Networks,17.9,18.1,53.3,3.1,22.8,1
+STU1277,Machine Learning,18.5,23.6,68.4,3.0,28.9,1
+STU1277,Design and Analysis of Algorithms (DAA),30.9,30.1,67.3,2.4,27.8,1
+STU1277,Microcontrollers (MC),24.6,26.7,71.6,2.6,24.6,1
+STU1277,Artificial Intelligence,15.2,15.9,50.0,2.1,19.0,1
+STU1278,Computer Networks,20.9,27.2,75.9,3.2,26.5,1
+STU1278,Machine Learning,28.0,24.0,66.9,2.9,22.9,1
+STU1278,Design and Analysis of Algorithms (DAA),29.1,26.7,68.1,2.8,29.2,1
+STU1278,Microcontrollers (MC),25.2,24.5,64.1,3.0,23.9,1
+STU1278,Software Project Management,20.6,24.3,66.6,3.1,24.3,1
+STU1279,Computer Networks,39.7,35.5,94.3,3.6,38.2,1
+STU1279,Machine Learning,27.3,32.4,73.4,4.2,33.2,1
+STU1279,Design and Analysis of Algorithms (DAA),29.9,34.0,70.1,4.5,32.4,1
+STU1279,Microcontrollers (MC),26.4,33.1,84.7,3.7,31.7,1
+STU1279,Software Project Management,36.5,32.9,82.7,3.0,31.7,1
+STU1280,Computer Networks,22.4,30.3,79.8,3.1,30.7,1
+STU1280,Machine Learning,30.2,22.3,76.0,2.8,24.4,1
+STU1280,Design and Analysis of Algorithms (DAA),24.9,31.9,75.7,3.5,32.7,1
+STU1280,Microcontrollers (MC),34.6,33.8,66.4,3.7,37.7,1
+STU1280,Artificial Intelligence,26.2,23.5,58.2,2.1,23.6,1
+STU1281,Computer Networks,24.8,20.4,50.0,1.9,23.5,1
+STU1281,Machine Learning,18.2,19.1,64.1,2.3,23.5,1
+STU1281,Design and Analysis of Algorithms (DAA),20.3,17.4,59.2,2.6,20.5,1
+STU1281,Microcontrollers (MC),24.1,23.8,83.2,3.4,28.9,1
+STU1281,Software Project Management,25.0,21.1,58.1,2.4,23.3,1
+STU1282,Computer Networks,4.0,6.7,50.0,1.2,8.8,0
+STU1282,Machine Learning,8.8,12.0,50.0,1.7,11.0,0
+STU1282,Design and Analysis of Algorithms (DAA),6.5,13.7,52.3,1.3,13.6,0
+STU1282,Microcontrollers (MC),4.3,8.3,50.0,0.8,9.2,0
+STU1282,Software Project Management,5.6,10.7,50.0,1.3,13.1,0
+STU1283,Computer Networks,26.2,26.5,63.9,2.8,24.6,1
+STU1283,Machine Learning,26.1,24.4,62.8,2.1,29.1,1
+STU1283,Design and Analysis of Algorithms (DAA),29.4,25.0,67.6,3.0,26.1,1
+STU1283,Microcontrollers (MC),12.8,9.8,51.7,1.7,8.9,0
+STU1283,Software Project Management,21.1,19.3,59.5,2.1,18.7,1
+STU1284,Computer Networks,32.8,31.3,75.2,3.2,34.2,1
+STU1284,Machine Learning,25.7,25.8,51.5,3.7,27.2,1
+STU1284,Design and Analysis of Algorithms (DAA),27.4,24.1,61.6,2.3,24.1,1
+STU1284,Microcontrollers (MC),22.1,19.7,58.0,2.6,18.6,1
+STU1284,Artificial Intelligence,31.6,28.6,78.3,2.3,28.9,1
+STU1285,Computer Networks,27.2,33.8,82.4,3.7,29.9,1
+STU1285,Machine Learning,29.0,22.3,78.5,1.6,22.2,1
+STU1285,Design and Analysis of Algorithms (DAA),22.2,23.3,61.3,2.8,24.1,1
+STU1285,Microcontrollers (MC),29.1,26.8,83.3,3.1,24.4,1
+STU1285,Artificial Intelligence,32.5,31.8,74.5,4.3,33.7,1
+STU1286,Computer Networks,21.1,20.3,61.3,2.3,25.7,1
+STU1286,Machine Learning,19.4,21.8,66.1,3.1,24.6,1
+STU1286,Design and Analysis of Algorithms (DAA),24.1,23.1,52.8,3.4,25.5,1
+STU1286,Microcontrollers (MC),23.8,28.2,74.6,4.0,28.1,1
+STU1286,Software Project Management,22.3,17.9,65.4,2.2,18.2,1
+STU1287,Computer Networks,28.6,24.9,89.3,3.2,32.6,1
+STU1287,Machine Learning,28.6,30.4,79.5,3.5,29.7,1
+STU1287,Design and Analysis of Algorithms (DAA),28.6,33.7,61.3,4.0,36.5,1
+STU1287,Microcontrollers (MC),23.7,23.2,69.3,1.9,20.8,1
+STU1287,Software Project Management,20.9,21.9,68.9,3.0,20.8,1
+STU1288,Computer Networks,20.4,20.9,62.3,2.4,19.4,1
+STU1288,Machine Learning,19.5,27.5,66.7,4.2,24.9,1
+STU1288,Design and Analysis of Algorithms (DAA),20.4,17.6,65.2,1.3,17.6,1
+STU1288,Microcontrollers (MC),22.7,23.6,67.9,2.6,24.2,1
+STU1288,Software Project Management,19.0,18.3,57.8,2.4,19.2,1
+STU1289,Computer Networks,29.7,31.5,93.9,5.0,32.3,1
+STU1289,Machine Learning,28.4,30.4,91.5,3.0,32.5,1
+STU1289,Design and Analysis of Algorithms (DAA),24.4,28.1,73.9,2.5,26.5,1
+STU1289,Microcontrollers (MC),25.6,25.1,58.6,3.1,25.0,1
+STU1289,Software Project Management,38.7,38.1,89.4,2.7,36.6,1
+STU1290,Computer Networks,35.6,31.5,87.7,3.9,37.1,1
+STU1290,Machine Learning,28.2,27.5,78.9,4.0,25.2,1
+STU1290,Design and Analysis of Algorithms (DAA),29.5,29.3,76.8,2.9,31.5,1
+STU1290,Microcontrollers (MC),28.5,26.6,73.2,3.1,27.1,1
+STU1290,Software Project Management,25.9,30.0,73.3,2.6,30.1,1
+STU1291,Computer Networks,13.1,15.7,65.5,2.0,19.3,1
+STU1291,Machine Learning,20.3,15.8,50.0,1.6,17.8,1
+STU1291,Design and Analysis of Algorithms (DAA),22.4,20.0,66.2,1.9,24.2,1
+STU1291,Microcontrollers (MC),24.9,22.8,50.0,2.9,24.9,1
+STU1291,Software Project Management,16.8,13.4,64.1,1.0,15.7,0
+STU1292,Computer Networks,20.8,23.8,68.6,2.4,22.2,1
+STU1292,Machine Learning,25.8,21.7,60.9,2.9,20.3,1
+STU1292,Design and Analysis of Algorithms (DAA),27.7,28.2,70.1,3.7,25.9,1
+STU1292,Microcontrollers (MC),20.2,21.1,50.0,1.9,20.9,1
+STU1292,Software Project Management,22.2,22.4,50.0,2.6,20.5,1
+STU1293,Computer Networks,30.3,31.4,77.4,3.4,27.7,1
+STU1293,Machine Learning,21.5,20.6,59.2,2.5,23.5,1
+STU1293,Design and Analysis of Algorithms (DAA),21.8,25.9,82.1,3.5,26.7,1
+STU1293,Microcontrollers (MC),26.0,26.8,75.3,3.0,29.3,1
+STU1293,Artificial Intelligence,24.3,27.0,50.0,3.1,21.0,1
+STU1294,Computer Networks,22.1,20.2,56.2,2.7,24.1,1
+STU1294,Machine Learning,21.9,24.1,73.9,3.4,28.8,1
+STU1294,Design and Analysis of Algorithms (DAA),26.1,25.5,50.8,2.9,23.5,1
+STU1294,Microcontrollers (MC),35.9,32.3,62.7,3.3,33.9,1
+STU1294,Artificial Intelligence,15.5,20.8,57.5,2.5,18.7,1
+STU1295,Computer Networks,15.6,13.3,50.0,1.4,18.9,1
+STU1295,Machine Learning,20.5,20.1,50.0,2.4,19.7,1
+STU1295,Design and Analysis of Algorithms (DAA),12.5,13.8,50.6,1.8,12.4,0
+STU1295,Microcontrollers (MC),26.2,31.9,69.1,3.8,31.5,1
+STU1295,Artificial Intelligence,21.0,19.6,50.0,2.0,19.9,1
+STU1296,Computer Networks,21.9,23.8,66.1,2.6,22.0,1
+STU1296,Machine Learning,35.3,32.5,64.5,3.4,32.8,1
+STU1296,Design and Analysis of Algorithms (DAA),26.5,23.3,50.0,3.0,22.3,1
+STU1296,Microcontrollers (MC),22.3,22.0,50.0,2.1,22.2,1
+STU1296,Software Project Management,23.0,19.2,55.0,3.5,21.6,1
+STU1297,Computer Networks,19.6,17.6,60.8,2.5,18.9,1
+STU1297,Machine Learning,23.6,24.0,50.0,3.0,22.0,1
+STU1297,Design and Analysis of Algorithms (DAA),29.5,27.7,72.4,2.7,23.3,1
+STU1297,Microcontrollers (MC),18.2,17.5,63.4,2.5,21.1,1
+STU1297,Software Project Management,24.0,23.0,64.3,3.2,25.5,1
+STU1298,Computer Networks,4.6,7.5,50.0,1.8,14.7,0
+STU1298,Machine Learning,9.3,9.4,50.0,1.7,12.3,0
+STU1298,Design and Analysis of Algorithms (DAA),14.5,14.8,50.0,0.7,13.1,0
+STU1298,Microcontrollers (MC),4.0,9.4,50.0,1.1,11.0,0
+STU1298,Artificial Intelligence,16.4,16.7,50.0,1.4,14.2,0
+STU1299,Computer Networks,24.6,22.5,68.3,3.4,27.3,1
+STU1299,Machine Learning,25.7,23.2,50.0,3.0,24.0,1
+STU1299,Design and Analysis of Algorithms (DAA),18.6,25.4,63.1,2.8,22.7,1
+STU1299,Microcontrollers (MC),15.6,14.8,50.0,2.8,15.7,0
+STU1299,Artificial Intelligence,22.8,21.7,51.9,2.4,22.5,1
+STU1300,Computer Networks,20.2,26.4,78.2,3.9,26.1,1
+STU1300,Machine Learning,24.8,21.6,69.8,3.3,23.2,1
+STU1300,Design and Analysis of Algorithms (DAA),31.0,32.4,52.9,4.0,31.1,1
+STU1300,Microcontrollers (MC),23.7,22.8,58.1,3.2,24.7,1
+STU1300,Software Project Management,19.8,20.9,58.5,3.4,20.8,1

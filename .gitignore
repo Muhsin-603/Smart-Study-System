@@ -1,1 +1,23 @@
-/.env
+# Environment variables
+.env
+.env.local
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDEs
+.vscode/
+.idea/
