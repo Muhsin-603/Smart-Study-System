@@ -1,5 +1,11 @@
 # Smart Study Recommendation System 🎓
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-smart--study--system.streamlit.app-52B788?style=for-the-badge&logo=streamlit&logoColor=white)](https://smart-study-system.streamlit.app/)
+
+> 🌐 **Deployed App**: [https://smart-study-system.streamlit.app/](https://smart-study-system.streamlit.app/)
+>
+> Demo credentials — Student ID: `STU101` or `STU102` · Password: `password123`
+
 A complete college-level Machine Learning mini-project built with **Python**, **Streamlit**, **Scikit-learn**, and **MongoDB Atlas**. 
 
 The system analyzes student academic data, identifies weak subjects, predicts final semester marks using **Linear Regression**, forecasts Pass/Fail status using a **Decision Tree Classifier**, determines academic risk levels, and provides personalized, explainable study recommendations. It also incorporates a **continual learning loop** where verified student outcomes are fed back to retrain and refine the ML models.
