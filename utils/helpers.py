@@ -1,6 +1,7 @@
 """
 Utility Helpers for Smart Study Recommendation System
-Includes input validators and clean academic visualizations using Matplotlib and Seaborn.
+Includes input validators and academic visualizations styled per Design.md:
+Palette: Academic Green (#245C4A), Needs Attention (#C94A4A), Improving (#B98232), On Track (#3E8061).
 """
 
 from typing import Tuple, List, Dict, Any, Optional
@@ -48,60 +49,67 @@ def validate_study_hours(val: Any) -> Tuple[bool, Optional[float], str]:
 
 
 # -----------------------------
-# Visualization Functions (Matplotlib & Seaborn)
+# Chart Helpers (Design.md Sections 24, 25, 26)
 # -----------------------------
 
-# Set modern aesthetic
-sns.set_theme(style="whitegrid", font="sans-serif")
-plt.rcParams.update({
-    "font.size": 10,
-    "axes.labelsize": 11,
-    "axes.titlesize": 12,
-    "xtick.labelsize": 10,
-    "ytick.labelsize": 10,
-    "figure.titlesize": 13,
-})
+COLOR_PRIMARY = "#245C4A"
+COLOR_SECONDARY = "#8A938D"
+COLOR_ATTENTION = "#C94A4A"
+COLOR_IMPROVING = "#B98232"
+COLOR_ON_TRACK = "#3E8061"
+COLOR_BORDER = "#E2E7E3"
+
+
+def configure_chart_axes(ax):
+    """Apply consistent quiet academic styling per Design.md."""
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_color(COLOR_BORDER)
+    ax.spines["bottom"].set_color(COLOR_BORDER)
+    ax.yaxis.grid(True, linestyle=":", color=COLOR_BORDER, alpha=0.8)
+    ax.xaxis.grid(False)
 
 
 def plot_subject_marks_bar(subject_data: List[Dict[str, Any]]) -> plt.Figure:
     """
     Chart 1: Subject-wise Marks Bar Chart
-    Shows current marks for each subject with color-coded priority thresholds.
+    Shows current marks for each subject with color-coded status.
     """
+    sns.set_theme(style="white", font="sans-serif")
     df = pd.DataFrame(subject_data)
-    fig, ax = plt.subplots(figsize=(7, 4))
+    fig, ax = plt.subplots(figsize=(6.5, 3.8))
 
-    # Priority colors: Red for High Priority (<25), Amber for Medium (25-30), Green for Maintain (>30)
     palette = []
     for m in df["internal_marks"]:
         if m < 25.0:
-            palette.append("#E63946")  # Red
+            palette.append(COLOR_ATTENTION)
         elif m <= 30.0:
-            palette.append("#F4A261")  # Amber
+            palette.append(COLOR_IMPROVING)
         else:
-            palette.append("#2A9D8F")  # Teal Green
+            palette.append(COLOR_ON_TRACK)
 
-    bars = ax.bar(df["subject"], df["internal_marks"], color=palette, width=0.55, edgecolor="#2B2D42", linewidth=0.8)
+    bars = ax.bar(
+        [s.split("(")[0].strip() for s in df["subject"]],
+        df["internal_marks"],
+        color=palette,
+        width=0.48
+    )
 
-    # Reference threshold lines
-    ax.axhline(16, color="#D90429", linestyle="--", alpha=0.7, label="Pass Threshold (16/40)")
-    ax.axhline(25, color="#F4A261", linestyle=":", alpha=0.7, label="High Priority Threshold (<25)")
-    ax.axhline(31, color="#2A9D8F", linestyle=":", alpha=0.7, label="Maintain Threshold (>30)")
-
+    ax.axhline(16, color="#C94A4A", linestyle="--", linewidth=1.0, alpha=0.7, label="Pass Benchmark (16)")
     ax.set_ylim(0, 44)
-    ax.set_ylabel("Internal Marks (out of 40)")
-    ax.set_title("Subject-wise Academic Performance", fontweight="bold", pad=12)
-    plt.xticks(rotation=20, ha="right")
+    ax.set_ylabel("Marks (out of 40)", color="#68736C", fontsize=9.5)
+    ax.set_title("Current Subject Performance", color="#17211B", fontsize=11, fontweight="bold", pad=12)
+
+    configure_chart_axes(ax)
 
     for bar in bars:
         h = bar.get_height()
         ax.annotate(f"{h:.1f}",
                     xy=(bar.get_x() + bar.get_width() / 2, h),
-                    xytext=(0, 4),
-                    textcoords="offset points",
-                    ha="center", va="bottom", fontsize=9, fontweight="bold")
+                    xytext=(0, 4), textcoords="offset points",
+                    ha="center", va="bottom", fontsize=8.5, color="#17211B", fontweight="bold")
 
-    ax.legend(loc="upper right", framealpha=0.9, fontsize=8)
+    ax.legend(loc="upper right", frameon=False, fontsize=8)
     fig.tight_layout()
     return fig
 
@@ -109,108 +117,114 @@ def plot_subject_marks_bar(subject_data: List[Dict[str, Any]]) -> plt.Figure:
 def plot_attendance_vs_marks_scatter(subject_data: List[Dict[str, Any]], background_df: Optional[pd.DataFrame] = None) -> plt.Figure:
     """
     Chart 2: Attendance vs Marks Scatter Plot
-    Plots the student's subjects with contextual distribution.
+    Shows student's subject standing against general cohort distribution.
     """
-    fig, ax = plt.subplots(figsize=(7, 4))
+    sns.set_theme(style="white", font="sans-serif")
+    fig, ax = plt.subplots(figsize=(6.5, 3.8))
 
     if background_df is not None and not background_df.empty:
-        # Sample background for context
-        sample_bg = background_df.sample(min(150, len(background_df)), random_state=42)
+        sample_bg = background_df.sample(min(120, len(background_df)), random_state=42)
         ax.scatter(sample_bg["attendance"], sample_bg["internal_marks"],
-                   color="#D1D5DB", alpha=0.35, s=25, label="Cohort Reference")
+                   color=COLOR_SECONDARY, alpha=0.25, s=20, label="Cohort Reference")
 
     df = pd.DataFrame(subject_data)
-    scatter = ax.scatter(df["attendance"], df["internal_marks"],
-                         c=df["internal_marks"], cmap="coolwarm_r",
-                         s=130, edgecolor="#1E293B", linewidth=1.5, zorder=5, label="Your Subjects")
+    ax.scatter(df["attendance"], df["internal_marks"],
+               color=COLOR_PRIMARY, s=90, edgecolors="#17211B", linewidth=1.2, zorder=5, label="Your Subjects")
 
     for _, row in df.iterrows():
-        ax.annotate(row["subject"].split("(")[0].strip()[:10],
+        ax.annotate(row["subject"].split("(")[0].strip()[:9],
                     xy=(row["attendance"], row["internal_marks"]),
-                    xytext=(6, 4), textcoords="offset points",
-                    fontsize=8, fontweight="medium", color="#0F172A")
+                    xytext=(5, 4), textcoords="offset points",
+                    fontsize=8, color="#17211B")
 
-    # Threshold markers
-    ax.axvline(80, color="#E63946", linestyle="--", alpha=0.6, label="Min Attendance (80%)")
-    ax.axhline(16, color="#D90429", linestyle=":", alpha=0.6, label="Pass Marks (16/40)")
-
-    ax.set_xlabel("Attendance Percentage (%)")
-    ax.set_ylabel("Marks (out of 40)")
-    ax.set_title("Attendance vs. Marks Distribution", fontweight="bold", pad=12)
-    ax.set_xlim(40, 105)
+    ax.axvline(80, color=COLOR_ATTENTION, linestyle="--", linewidth=1.0, alpha=0.6, label="Min Attendance (80%)")
+    ax.set_xlabel("Attendance (%)", color="#68736C", fontsize=9.5)
+    ax.set_ylabel("Marks (out of 40)", color="#68736C", fontsize=9.5)
+    ax.set_title("Attendance vs. Marks", color="#17211B", fontsize=11, fontweight="bold", pad=12)
+    ax.set_xlim(45, 105)
     ax.set_ylim(0, 44)
-    ax.legend(loc="lower right", framealpha=0.9, fontsize=8)
+
+    configure_chart_axes(ax)
+    ax.xaxis.grid(True, linestyle=":", color=COLOR_BORDER, alpha=0.8)
+
+    ax.legend(loc="lower right", frameon=False, fontsize=8)
     fig.tight_layout()
     return fig
 
 
 def plot_actual_vs_predicted_marks(subject_data: List[Dict[str, Any]]) -> plt.Figure:
     """
-    Chart 3: Actual vs. Predicted Marks Comparison
-    Grouped bar chart showing current marks vs ML predicted final marks.
+    Chart 3: Actual vs Predicted Performance Comparison
     """
+    sns.set_theme(style="white", font="sans-serif")
     df = pd.DataFrame(subject_data)
-    fig, ax = plt.subplots(figsize=(7, 4))
+    fig, ax = plt.subplots(figsize=(6.5, 3.8))
 
     x = np.arange(len(df))
-    width = 0.35
+    width = 0.32
 
-    bars1 = ax.bar(x - width/2, df["internal_marks"], width, label="Current Internal Marks", color="#3A86FF", edgecolor="#1D3557", linewidth=0.8)
-    bars2 = ax.bar(x + width/2, df["predicted_marks"], width, label="Predicted Final Marks (ML)", color="#8338EC", edgecolor="#1D3557", linewidth=0.8)
+    bars1 = ax.bar(x - width/2, df["internal_marks"], width, label="Current Marks", color=COLOR_PRIMARY)
+    bars2 = ax.bar(x + width/2, df["predicted_marks"], width, label="Predicted Final", color=COLOR_SECONDARY)
 
-    ax.set_ylabel("Marks (out of 40)")
-    ax.set_title("Current vs. Predicted Final Performance", fontweight="bold", pad=12)
+    ax.set_ylabel("Marks (out of 40)", color="#68736C", fontsize=9.5)
+    ax.set_title("Current vs. Predicted Outcome", color="#17211B", fontsize=11, fontweight="bold", pad=12)
     ax.set_xticks(x)
-    ax.set_xticklabels([s.split("(")[0].strip() for s in df["subject"]], rotation=20, ha="right")
+    ax.set_xticklabels([s.split("(")[0].strip() for s in df["subject"]], rotation=15, ha="right", fontsize=9)
     ax.set_ylim(0, 44)
-    ax.axhline(16, color="#E63946", linestyle="--", alpha=0.7, label="Pass Benchmark (16/40)")
+
+    configure_chart_axes(ax)
 
     for bars in (bars1, bars2):
         for bar in bars:
             h = bar.get_height()
             ax.annotate(f"{h:.1f}",
                         xy=(bar.get_x() + bar.get_width() / 2, h),
-                        xytext=(0, 3),
-                        textcoords="offset points",
-                        ha="center", va="bottom", fontsize=8, fontweight="bold")
+                        xytext=(0, 3), textcoords="offset points",
+                        ha="center", va="bottom", fontsize=8, color="#17211B")
 
-    ax.legend(loc="upper right", framealpha=0.9, fontsize=8)
+    ax.legend(loc="upper right", frameon=False, fontsize=8)
     fig.tight_layout()
     return fig
 
 
 def plot_weak_subjects_priority(sorted_subjects: List[Dict[str, Any]]) -> plt.Figure:
     """
-    Chart 4: Weak Subject Priority Chart
-    Visualizes all subjects sorted from highest academic priority to maintain.
+    Chart 4: Areas Needing Attention (Horizontal Bar Chart)
     """
+    sns.set_theme(style="white", font="sans-serif")
     df = pd.DataFrame(sorted_subjects)
-    fig, ax = plt.subplots(figsize=(7, 3.8))
+    fig, ax = plt.subplots(figsize=(6.5, 3.5))
 
     color_map = {
-        "High Priority": "#E63946",
-        "Medium Priority": "#F4A261",
-        "Maintain": "#2A9D8F"
+        "Needs attention": COLOR_ATTENTION,
+        "Improving": COLOR_IMPROVING,
+        "On track": COLOR_ON_TRACK
     }
-    colors = [color_map.get(p, "#94A3B8") for p in df["priority"]]
+    colors = [color_map.get(p, COLOR_SECONDARY) for p in df["display_status"]]
 
     y_pos = np.arange(len(df))
-    bars = ax.barh(y_pos, df["current_marks"], color=colors, height=0.55, edgecolor="#1E293B", linewidth=0.8)
+    bars = ax.barh(y_pos, df["current_marks"], color=colors, height=0.48)
 
     ax.set_yticks(y_pos)
-    ax.set_yticklabels(df["subject"])
-    ax.invert_yaxis()  # Highest priority on top
-    ax.set_xlabel("Current Marks (out of 40)")
-    ax.set_title("Subject Priority Matrix (Weakest & Critical First)", fontweight="bold", pad=12)
+    ax.set_yticklabels([s.split("(")[0].strip() for s in df["subject"]], fontsize=9)
+    ax.invert_yaxis()
+    ax.set_xlabel("Current Marks (out of 40)", color="#68736C", fontsize=9.5)
+    ax.set_title("Subject Urgency Hierarchy", color="#17211B", fontsize=11, fontweight="bold", pad=12)
     ax.set_xlim(0, 44)
 
-    for bar, priority in zip(bars, df["priority"]):
+    ax.spines["top"].set_visible(False)
+    ax.spines["right"].set_visible(False)
+    ax.spines["left"].set_color(COLOR_BORDER)
+    ax.spines["bottom"].set_color(COLOR_BORDER)
+    ax.xaxis.grid(True, linestyle=":", color=COLOR_BORDER, alpha=0.8)
+    ax.yaxis.grid(False)
+
+    for bar, status in zip(bars, df["display_status"]):
         w = bar.get_width()
-        ax.annotate(f" {w:.1f}  [{priority}]",
+        ax.annotate(f" {w:.1f} ({status})",
                     xy=(w, bar.get_y() + bar.get_height() / 2),
-                    xytext=(3, 0),
-                    textcoords="offset points",
-                    ha="left", va="center", fontsize=8.5, fontweight="bold")
+                    xytext=(3, 0), textcoords="offset points",
+                    ha="left", va="center", fontsize=8, color="#17211B", fontweight="medium")
 
     fig.tight_layout()
     return fig
