@@ -111,14 +111,25 @@ cd "Smart Study system"
 pip install -r requirements.txt
 ```
 
-### 3. Configure MongoDB Atlas (`.env`)
-Create a `.env` file in the project root:
+### 3. Configure MongoDB Atlas & Environment
+#### Local Development (`.env`)
+Create a `.env` file in the project root (never committed to Git):
 ```env
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.a8wl8vu.mongodb.net/smart_study_db?retryWrites=true&w=majority&appName=Cluster0
 DB_NAME=smart_study_db
 ADMIN_PASSWORD=admin123
 PASSING_MARKS=16
 ```
+
+#### Cloud Deployment (Streamlit Community Cloud Secrets)
+When deploying to Streamlit Cloud, configure your credentials under **App Settings &rarr; Secrets** using TOML format:
+```toml
+MONGODB_URI = "mongodb+srv://<username>:<password>@cluster0.a8wl8vu.mongodb.net/smart_study_db?retryWrites=true&w=majority&appName=Cluster0"
+DB_NAME = "smart_study_db"
+ADMIN_PASSWORD = "admin123"
+PASSING_MARKS = 16
+```
+> The application uses a hybrid secret resolver that seamlessly reads from `.env` locally and falls back to `st.secrets` in cloud environments.
 
 ### 4. Generate Synthetic Dataset
 ```bash
