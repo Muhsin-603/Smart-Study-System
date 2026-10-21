@@ -13,20 +13,35 @@ from pymongo.errors import ConnectionFailure, PyMongoError
 
 load_dotenv()
 
-MONGODB_URI = os.getenv("MONGODB_URI")
-DB_NAME = os.getenv("DB_NAME", "smart_study_db")
+def _get_secret(key: str, default: Optional[str] = None) -> Optional[str]:
+    """Retrieve secret from os.getenv (.env) or fallback to streamlit.secrets."""
+    val = os.getenv(key)
+    if not val:
+        try:
+            import streamlit as st
+            if hasattr(st, "secrets") and key in st.secrets:
+                val = st.secrets[key]
+        except Exception:
+            pass
+    return val if val is not None else default
+
+
+MONGODB_URI = _get_secret("MONGODB_URI")
+DB_NAME = _get_secret("DB_NAME", "smart_study_db")
 
 _client: Optional[MongoClient] = None
 
 
 def get_mongo_client() -> MongoClient:
     """Return a singleton MongoClient instance with 5s timeout."""
-    global _client
+    global _client, MONGODB_URI
     if _client is None:
         if not MONGODB_URI:
+            MONGODB_URI = _get_secret("MONGODB_URI")
+        if not MONGODB_URI:
             raise ValueError(
-                "MONGODB_URI environment variable is not configured. "
-                "Please set MONGODB_URI in your .env file or environment."
+                "MONGODB_URI is not configured. "
+                "Please set MONGODB_URI in your .env file or Streamlit Cloud Secrets."
             )
         _client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=5000)
     return _client

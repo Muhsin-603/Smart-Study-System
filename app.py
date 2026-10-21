@@ -752,7 +752,7 @@ if nav_selection == "Admin Portal":
     st.markdown("### Administrator & Institutional Analytics")
     st.caption("Faculty supervision and technical machine learning metrics.")
 
-    admin_pw_target = os.getenv("ADMIN_PASSWORD", "admin123")
+    admin_pw_target = os.getenv("ADMIN_PASSWORD") or (st.secrets.get("ADMIN_PASSWORD") if hasattr(st, "secrets") and "ADMIN_PASSWORD" in st.secrets else None) or "admin123"
     if not st.session_state.admin_authenticated:
         with st.form("admin_portal_login"):
             admin_input = st.text_input("Admin Password", type="password")
