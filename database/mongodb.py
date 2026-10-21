@@ -13,10 +13,7 @@ from pymongo.errors import ConnectionFailure, PyMongoError
 
 load_dotenv()
 
-MONGODB_URI = os.getenv(
-    "MONGODB_URI",
-    "mongodb+srv://muhsin:Muhsin12345@cluster0.a8wl8vu.mongodb.net/smart_study_db?retryWrites=true&w=majority&appName=Cluster0"
-)
+MONGODB_URI = os.getenv("MONGODB_URI")
 DB_NAME = os.getenv("DB_NAME", "smart_study_db")
 
 _client: Optional[MongoClient] = None
@@ -26,8 +23,14 @@ def get_mongo_client() -> MongoClient:
     """Return a singleton MongoClient instance with 5s timeout."""
     global _client
     if _client is None:
+        if not MONGODB_URI:
+            raise ValueError(
+                "MONGODB_URI environment variable is not configured. "
+                "Please set MONGODB_URI in your .env file or environment."
+            )
         _client = MongoClient(MONGODB_URI, serverSelectionTimeoutMS=5000)
     return _client
+
 
 
 def check_connection() -> Tuple[bool, str]:
